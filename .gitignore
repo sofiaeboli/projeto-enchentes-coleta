@@ -1,4 +1,7 @@
    .venv/
    __pycache__/
    .ipynb_checkpoints/
-   .vscode/
+   .vscode/dados/originais/osm/
+dados/originais/bairros/
+dados/originais/ibge/
+.vscode/
