@@ -1,0 +1,21 @@
+[theme]
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap, sans-serif"
+headingFont = "serif"
+
+[theme.light]
+primaryColor = "#1F4E8C"
+backgroundColor = "#FBFAF7"
+secondaryBackgroundColor = "#F0EEE8"
+textColor = "#1F2937"
+
+[theme.dark]
+primaryColor = "#6BA6E0"
+backgroundColor = "#14181F"
+secondaryBackgroundColor = "#1D232C"
+textColor = "#E5E7EB"
+
+[client]
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
