@@ -4,3 +4,6 @@ plotly
 geopandas
 nbformat
 matplotlib
+streamlit
+shapely
+numpy
