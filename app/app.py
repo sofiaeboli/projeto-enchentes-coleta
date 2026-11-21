@@ -148,13 +148,20 @@ def mostrar_tabela(tabela):
 
 
 # ---------- mapa ----------
-def mapa(dn, mostrar_nomes, mostrar_pct, limite, fundo, altura=700, sv=None):
+def mapa(dn, mostrar_nomes, mostrar_pct, limite, fundo, altura=700, sv=None, contagem=None):
     dn = dn.copy()
     dn["hover"] = (
         "<b>" + dn["bairro"] + "</b><br>" + dn["pct"].map(lambda v: dec(v)) + "% dos prédios afetados<br>"
         + dn["affected_buildings"].map(n) + " de " + dn["total_buildings"].map(n) + " prédios<br>"
         + dn["affected_population"].map(n) + " pessoas afetadas (estimativa)"
     )
+    if contagem is not None:
+        dn["nserv"] = dn["chave"].map(contagem).fillna(0).astype(int)
+        dn["hover"] = (
+            "<b>" + dn["bairro"] + "</b><br>" + dn["nserv"].map(n) + " serviços no bairro<br>"
+            + (dn["nserv"] * dn["pct"] / 100).map(lambda v: dec(v)) + " afetados (estimativa)<br>"
+            + dn["pct"].map(lambda v: dec(v)) + "% dos prédios afetados"
+        )
     acima = dn[dn["pct"] >= limite]
     abaixo = dn[dn["pct"] < limite]
 
@@ -181,7 +188,11 @@ def mapa(dn, mostrar_nomes, mostrar_pct, limite, fundo, altura=700, sv=None):
                 linhas = []
                 if mostrar_nomes:
                     linhas.append(r["bairro"])
-                if mostrar_pct and r["pct"] >= 0.5:
+                if mostrar_pct and contagem is not None:
+                    if r["nserv"] > 0:
+                        extra = f" · {dec(r['pct'], 0)}%" if r["pct"] >= 0.5 else ""
+                        linhas.append(f"{r['nserv']} serv.{extra}")
+                elif mostrar_pct and r["pct"] >= 0.5:
                     linhas.append(f"{dec(r['pct'], 0)}%")
                 textos.append("<br>".join(linhas))
             fig.add_trace(go.Scattermap(
@@ -322,10 +333,11 @@ def tela2(nivel, topn, mostrar_nomes, mostrar_pct, limite, fundo, tipos):
     st.markdown("#### Mapa dos serviços essenciais por bairro")
     so_atingidos = st.checkbox("Mostrar no mapa só os serviços em bairros atingidos", value=False)
     sv_mapa = sv[sv["pct"] > 0] if so_atingidos else sv
-    st.plotly_chart(mapa(dn, mostrar_nomes, mostrar_pct, limite, fundo, sv=sv_mapa), width="stretch",
-                    config={"scrollZoom": True, "displaylogo": False})
-    st.caption("Cada ponto é um serviço. Passe o mouse para ver o nome. Os bairros seguem a escala de "
-               "cor da Tela 1, mais clara para os pontos aparecerem.")
+    contagem = sv.groupby("chave").size().to_dict()
+    st.plotly_chart(mapa(dn, mostrar_nomes, mostrar_pct, limite, fundo, sv=sv_mapa, contagem=contagem),
+                    width="stretch", config={"scrollZoom": True, "displaylogo": False})
+    st.caption("Cada ponto é um serviço. Passe o mouse sobre um ponto para ver o nome, ou sobre o bairro para ver "
+               "quantos serviços ele tem. A estimativa de serviços afetados usa o % de prédios afetados do bairro.")
 
     est = serv_por_nivel()
     est = est[est["tipo"].isin(tipos)]
@@ -425,8 +437,14 @@ st.sidebar.markdown("**Mapa**")
 fundo_nome = st.sidebar.selectbox("Fundo do mapa", ["Com ruas", "Sem fundo"])
 fundo = "carto-positron-nolabels" if fundo_nome == "Com ruas" else "white-bg"
 mostrar_nomes = st.sidebar.checkbox("Mostrar nomes dos bairros", value=False)
-mostrar_pct = st.sidebar.checkbox("Mostrar % de prédios afetados no bairro", value=False)
-limite = st.sidebar.slider("Destacar bairros com mais de (% de prédios afetados)", 0, 100, 0, 1,
+if tela.startswith("Tela 1"):
+    rotulo_pct = "Mostrar % de prédios afetados no bairro"
+    rotulo_lim = "Destacar bairros com mais de (% de prédios afetados)"
+else:
+    rotulo_pct = "Mostrar nº de serviços e % afetado no bairro"
+    rotulo_lim = "Destacar bairros com mais de (% de serviços afetados)"
+mostrar_pct = st.sidebar.checkbox(rotulo_pct, value=False)
+limite = st.sidebar.slider(rotulo_lim, 0, 100, 0, 1,
                            help="Os bairros abaixo desse valor ficam cinza. Em 0, todos ficam coloridos.")
 topn = st.sidebar.slider("Quantos bairros mostrar nos gráficos", 5, 30, 10, 1)
 
