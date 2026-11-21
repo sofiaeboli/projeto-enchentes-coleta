@@ -1,0 +1,876 @@
+osm_id,tipo,nome,lat,lon,chave,bairro
+442752778,pharmacy,Panvel,-30.0287749,-51.2087253,INDEPENDENCIA,Independência
+476647413,fire_station,Academia de Bombeiros Militar,-30.0412498,-51.2030143,SANTA CECILIA,Santa Cecília
+476647429,hospital,Unidade Álvaro Alvim - HCPA,-30.037137,-51.1982455,RIO BRANCO,Rio Branco
+595704235,police,Alto Petrópolis,-30.038499,-51.1227178,MORRO SANTANA,Morro Santana
+598724534,pharmacy,Agafarma,-30.0396772,-51.12465,MORRO SANTANA,Morro Santana
+598724543,pharmacy,FarMais,-30.0399572,-51.1258896,MORRO SANTANA,Morro Santana
+598724556,pharmacy,CompreBem,-30.040066,-51.1263298,MORRO SANTANA,Morro Santana
+598724565,clinic,Estratégia Saúde da Família Tijuca,-30.0428889,-51.126231,MORRO SANTANA,Morro Santana
+606189116,pharmacy,Panvel,-30.0447715,-51.1975225,SANTA CECILIA,Santa Cecília
+606189341,pharmacy,Panvel,-30.0437287,-51.2022464,SANTANA,Santana
+747463971,pharmacy,Farmácia Forum,-30.0441728,-51.2297549,PRAIA DE BELAS,Praia de Belas
+831854392,police,Instituto Médico Legal,-30.0468256,-51.2109537,SANTANA,Santana
+853556541,pharmacy,São João,-30.0309994,-51.2324354,CENTRO HISTORICO,Centro Histórico
+853556633,pharmacy,Panvel,-30.0316022,-51.2342804,CENTRO HISTORICO,Centro Histórico
+853556677,pharmacy,Farmacias Associadas,-30.030839,-51.2328129,CENTRO HISTORICO,Centro Histórico
+853556680,pharmacy,Drogabel,-30.0315341,-51.2346791,CENTRO HISTORICO,Centro Histórico
+853664499,pharmacy,Droga Raia,-30.0300319,-51.2296958,CENTRO HISTORICO,Centro Histórico
+853664848,pharmacy,Panvel,-30.0298363,-51.2296625,CENTRO HISTORICO,Centro Histórico
+853665190,pharmacy,PrecoPopular,-30.0298341,-51.2294273,CENTRO HISTORICO,Centro Histórico
+853665238,pharmacy,,-30.0296576,-51.2276907,CENTRO HISTORICO,Centro Histórico
+857182866,pharmacy,Farmácias Capilé,-30.0281449,-51.2294988,CENTRO HISTORICO,Centro Histórico
+1118102920,school,Colégio Marista Ipanema,-30.1305786,-51.239623,PEDRA REDONDA,Pedra Redonda
+1139972320,pharmacy,Panvel,-30.028462,-51.1699793,TRES FIGUEIRAS,Três Figueiras
+1149306135,pharmacy,Magistrallis Farmácia de Manipulação,-30.0271232,-51.1815134,BOA VISTA,Boa Vista
+1243941777,pharmacy,Panvel Express,-30.0381756,-51.2213889,CIDADE BAIXA,Cidade Baixa
+1250718420,pharmacy,Panvel,-30.0262001,-51.2156839,FLORESTA,Floresta
+1286851292,school,Centro de Ensino e Treinamento em Saúde,-30.0382982,-51.168094,CHACARA DAS PEDRAS,Chácara das Pedras
+1296562977,police,Comando Ambiental 1º Pelotão 2ª Companhia,-29.9945202,-51.2071037,NAVEGANTES,Navegantes
+1296563015,police,Grupo Especial de Polícia Marítima,-29.9951684,-51.2065233,NAVEGANTES,Navegantes
+1398057020,pharmacy,Farmácia Popular do Brasil,-30.041938,-51.2078537,SANTA CECILIA,Santa Cecília
+1398746510,pharmacy,Farmais,-30.0272691,-51.1897886,MONT SERRAT,Mont'Serrat
+1398746511,pharmacy,Panvel,-30.0274395,-51.1898702,MONT SERRAT,Mont'Serrat
+1423330153,hospital,MedCenter,-30.0327042,-51.1781895,TRES FIGUEIRAS,Três Figueiras
+1455553197,school,Faculdade São Francisco de Assis,-29.9992975,-51.2031609,NAVEGANTES,Navegantes
+1711730501,pharmacy,Panvel,-30.0101861,-51.1351368,JARDIM ITU,Jardim Itu
+1732955410,pharmacy,Medex,-30.0115801,-51.2057634,SAO GERALDO,São Geraldo
+1786938802,pharmacy,,-30.0270548,-51.1895289,MONT SERRAT,Mont'Serrat
+2083053508,pharmacy,,-30.043527,-51.1826662,PETROPOLIS,Petrópolis
+2087827552,hospital,Policlínica Militar de Porto Alegre,-30.0380214,-51.2197265,CIDADE BAIXA,Cidade Baixa
+2136838231,pharmacy,Panvel,-30.029735,-51.2010722,RIO BRANCO,Rio Branco
+2193048876,pharmacy,São João,-30.0307147,-51.2316015,CENTRO HISTORICO,Centro Histórico
+2274207744,hospital,Hospital da Brigada Militar de Porto Alegre,-30.0982586,-51.2508517,VILA ASSUNCAO,Vila Assunção
+2280097344,pharmacy,Verbena Manipulação,-30.1038609,-51.2535468,VILA ASSUNCAO,Vila Assunção
+2382470417,pharmacy,Empório Farmacêutico,-30.0492425,-51.2218467,MENINO DEUS,Menino Deus
+2400807046,police,Brigada Militar,-30.1144754,-51.2155986,VILA NOVA,Vila Nova
+2418114259,police,3ª Companhia 11º BPM,-30.03468,-51.1639718,CHACARA DAS PEDRAS,Chácara das Pedras
+2422063322,school,CPOR,-30.0621674,-51.2204507,SANTA TEREZA,Santa Tereza
+2422063338,police,Terceiro Batalhão de Polícia do Exército,-30.0638469,-51.2229749,SANTA TEREZA,Santa Tereza
+2427461508,pharmacy,Panvel,-30.0601135,-51.2230993,MENINO DEUS,Menino Deus
+2429353948,school,Unificado Pré-vestibular,-30.0083134,-51.1435187,SAO SEBASTIAO,São Sebastião
+2430384044,pharmacy,Panvel,-30.0586394,-51.2294428,MENINO DEUS,Menino Deus
+2430384045,pharmacy,Panvel,-30.0602123,-51.2277109,MENINO DEUS,Menino Deus
+2430384046,pharmacy,Farmácia de manipulação Quíron,-30.058287,-51.2230857,MENINO DEUS,Menino Deus
+2430384047,pharmacy,Bulla Manipulação,-30.0545166,-51.2225279,MENINO DEUS,Menino Deus
+2430384048,pharmacy,Agafarma,-30.0551456,-51.2226775,MENINO DEUS,Menino Deus
+2430384049,pharmacy,Agafarma,-30.0522206,-51.221973,MENINO DEUS,Menino Deus
+2430384050,pharmacy,Farmais,-30.0530896,-51.2224106,MENINO DEUS,Menino Deus
+2430384051,pharmacy,Panvel,-30.0513232,-51.2229187,MENINO DEUS,Menino Deus
+2432738266,pharmacy,,-30.0101732,-51.1562476,CRISTO REDENTOR,Cristo Redentor
+2435818301,pharmacy,,-30.0112035,-51.1603902,CRISTO REDENTOR,Cristo Redentor
+2503991372,clinic,Clínica Especializada em Comunicação,-30.0588925,-51.2015833,SANTO ANTONIO,Santo Antônio
+2503991373,school,Escola Frei Pacífico,-30.0586875,-51.2014522,SANTO ANTONIO,Santo Antônio
+2506179598,pharmacy,Maxxi Econômica Farmácia,-30.0254637,-51.1830357,MONT SERRAT,Mont'Serrat
+2507911052,fire_station,Corpo de Bombeiros da Restinga,-30.151373,-51.1348287,RESTINGA,Restinga
+2514058436,clinic,UBS Santo Agostinho,-29.9895875,-51.1066479,SANTA ROSA DE LIMA,Santa Rosa de Lima
+2597547217,pharmacy,Farmais,-30.0304516,-51.2017848,RIO BRANCO,Rio Branco
+2645405178,pharmacy,,-30.0264381,-51.2224498,CENTRO HISTORICO,Centro Histórico
+2697121784,pharmacy,Agafarma,-30.0425225,-51.1910201,PETROPOLIS,Petrópolis
+2697121800,pharmacy,Drogasil,-30.0547907,-51.1471249,JARDIM CARVALHO,Jardim Carvalho
+2697121811,clinic,Laboratório do Pé,-30.039039,-51.1761911,PETROPOLIS,Petrópolis
+2697121816,pharmacy,Sanar Farma,-30.0389658,-51.2011028,RIO BRANCO,Rio Branco
+2697121828,pharmacy,,-30.0494119,-51.1444611,JARDIM CARVALHO,Jardim Carvalho
+2884349759,pharmacy,Panvel,-30.0202516,-51.1812104,HIGIENOPOLIS,Higienópolis
+2884499565,pharmacy,Panvel,-30.0588813,-51.176038,PARTENON,Partenon
+2885350384,pharmacy,Agafarma,-29.9947577,-51.1296959,SARANDI,Sarandi
+2885350386,pharmacy,Farmácias Associadas,-29.9949273,-51.1298283,SARANDI,Sarandi
+2885350387,pharmacy,Maxxi Econômica,-29.9945951,-51.1295535,SARANDI,Sarandi
+2994579942,fire_station,Corpo de Bombeiros,-30.0623465,-51.1635543,VILA SAO JOSE,Vila São José
+2994579943,pharmacy,Farmácia Agafarma,-30.0589631,-51.193368,PARTENON,Partenon
+2994579944,pharmacy,Panvel,-30.0632757,-51.1861828,PARTENON,Partenon
+3028960512,pharmacy,São João,-30.0447382,-51.2236798,MENINO DEUS,Menino Deus
+3108273686,pharmacy,,-30.0357903,-51.2374449,CENTRO HISTORICO,Centro Histórico
+3108273692,pharmacy,,-30.0348398,-51.2282285,CENTRO HISTORICO,Centro Histórico
+3260692640,school,Colégio Tiradentes,-30.0702964,-51.1868932,CORONEL APARICIO BORGES,Coronel Aparício Borges
+3282604467,school,Escola Estado do Rio Grande do Sul,-30.0370453,-51.2305267,CENTRO HISTORICO,Centro Histórico
+3295535191,school,Escola Maurício Sirotsky Sobrinho,-30.0576536,-51.1932496,PARTENON,Partenon
+3324209078,school,Colégio Romano Santa Marta,-30.050436,-51.2171706,AZENHA,Azenha
+3349089179,pharmacy,,-30.0351574,-51.2299376,CENTRO HISTORICO,Centro Histórico
+3350596591,school,Colégio Universitário,-30.0782005,-51.2091653,TERESOPOLIS,Teresópolis
+3386258155,school,Escola Especial Luiz Francisco Lucena Borges,-30.0342603,-51.1457565,JARDIM SABARA,Jardim Sabará
+3386258156,school,Escola Eva Carminatti,-30.0924831,-51.135488,LOMBA DO PINHEIRO,Lomba do Pinheiro
+3386258157,school,Escola São Francisco - Santa Fé,-30.0140585,-51.1082266,PARQUE SANTA FE,Parque Santa Fé
+3386258158,school,Escola de Educação Especial Nazareth Apae Poa,-30.0765464,-51.1929779,GLORIA,Glória
+3386293411,school,Escola Alceu Wamosy,-30.1109703,-51.2348879,CAMAQUA,Camaquã
+3386293412,school,Escola Doutor Miguel Tostes,-30.1284408,-51.2274436,IPANEMA,Ipanema
+3386293413,school,Escola Especial Educandário São João Batista,-30.1288304,-51.2304559,IPANEMA,Ipanema
+3386293414,school,Escola Genoveva da Costa Bernardes,-30.2204042,-51.0982733,LAMI,Lami
+3387821742,school,Escola Madre Raffo,-30.2101115,-51.1830703,BELEM NOVO,Belém Novo
+3502956478,police,,-30.0725476,-51.2194343,SANTA TEREZA,Santa Tereza
+3590752327,school,Escola Lauro Rodrigues,-30.0183775,-51.1238271,PASSO DAS PEDRAS,Passo das Pedras
+3590752329,school,Escola Machado de Assis,-30.0919886,-51.2309051,NONOAI,Nonoai
+3590752330,school,Escola Nações Unidas,-30.0898771,-51.2270753,NONOAI,Nonoai
+3590752331,school,Escola Pepita de Leão,-30.0155024,-51.1281887,PASSO DAS PEDRAS,Passo das Pedras
+3590752332,school,Escola Visconde de Pelotas,-30.0248199,-51.1884116,MONT SERRAT,Mont'Serrat
+3605497470,school,Escola Victor Issler,-30.0356523,-51.116724,MARIO QUINTANA,Mário Quintana
+3733833047,pharmacy,Farmácia de Manipulação Extra Fórmula,-30.0801031,-51.2098786,TERESOPOLIS,Teresópolis
+3733951396,pharmacy,Farmácia Agafarma,-30.0997293,-51.2315898,CAVALHADA,Cavalhada
+3733951397,pharmacy,Medicom,-30.0989236,-51.2317064,CAVALHADA,Cavalhada
+3733951398,pharmacy,Mais Econômica,-30.0988279,-51.2317262,CAVALHADA,Cavalhada
+3734832322,pharmacy,Drogaria Pz,-30.1243388,-51.1053824,LOMBA DO PINHEIRO,Lomba do Pinheiro
+3734832323,pharmacy,Farmácia PopularMed,-30.12449,-51.10548,LOMBA DO PINHEIRO,Lomba do Pinheiro
+3738413588,pharmacy,Famácia Popular,-30.0106097,-51.1566288,CRISTO REDENTOR,Cristo Redentor
+3739450215,pharmacy,Farmácia Preço Popular,-30.0607201,-51.1912752,PARTENON,Partenon
+3739888301,school,UpTime Escola de Idiomas,-30.0149137,-51.1547981,CRISTO REDENTOR,Cristo Redentor
+3753196775,pharmacy,Droga Raia,-30.0387327,-51.2210374,CIDADE BAIXA,Cidade Baixa
+3754891584,pharmacy,Farmácias Associadas,-30.0921554,-51.1311093,LOMBA DO PINHEIRO,Lomba do Pinheiro
+3761040479,clinic,UPA - Pronto Atendimento Lomba do Pinheiro,-30.1105747,-51.1103058,LOMBA DO PINHEIRO,Lomba do Pinheiro
+3779014457,clinic,COR Mãe de Deus,-30.0781266,-51.2172103,SANTA TEREZA,Santa Tereza
+3779016157,pharmacy,Panvel,-30.022144,-51.151351,VILA IPIRANGA,Vila Ipiranga
+3798370386,pharmacy,Mais Econômica,-30.0179637,-51.2022207,FLORESTA,Floresta
+3798370388,pharmacy,Panvel,-30.017868,-51.1998746,FLORESTA,Floresta
+3798370389,pharmacy,São João,-30.0178742,-51.2003307,FLORESTA,Floresta
+3798783552,pharmacy,Panvel,-30.0178509,-51.1905789,AUXILIADORA,Auxiliadora
+3827293590,pharmacy,Farmácia São João,-30.0422935,-51.1791067,PETROPOLIS,Petrópolis
+3900770234,school,EEEF Heitor Villa-Lobos,-30.2141619,-51.0507185,EXTREMA,Extrema
+3908571221,clinic,Unidade de Saúde SUS,-30.1236259,-51.1077511,LOMBA DO PINHEIRO,Lomba do Pinheiro
+3975080689,pharmacy,,-30.0500826,-51.1865528,JARDIM BOTANICO,Jardim Botânico
+4083357150,police,11º Batalhão de Polícia Militar,-29.9791669,-51.1732442,ANCHIETA,Anchieta
+4117912913,clinic,MultiVacinas,-30.0102068,-51.1483849,SAO SEBASTIAO,São Sebastião
+4117912914,clinic,Unimed,-30.0102009,-51.1482663,SAO SEBASTIAO,São Sebastião
+4117912915,clinic,Unimed,-30.010212,-51.1484902,SAO SEBASTIAO,São Sebastião
+4134017479,pharmacy,Panvel,-30.0182497,-51.1740443,PASSO D AREIA,Passo D'Areia
+4163721175,school,Escola de Educação Profissional Cecilia Meireles,-30.0307904,-51.2314822,CENTRO HISTORICO,Centro Histórico
+4163722589,school,Núcleo Estadual de Educação de Jovens e Adultos Cardeal Alfredo Vicente Scherer,-30.0321365,-51.2258964,CENTRO HISTORICO,Centro Histórico
+4227636653,pharmacy,Farmácia PANVEL 24hs,-30.0406506,-51.1288742,MORRO SANTANA,Morro Santana
+4253379979,pharmacy,,-30.0502297,-51.2132839,AZENHA,Azenha
+4258004209,clinic,SUS Unidade de Saúde.,-30.1192111,-51.1091716,LOMBA DO PINHEIRO,Lomba do Pinheiro
+4275833758,school,Núcleo Estadual de Educação de Jovens e Adultos e Cultura Popular Julieta Villamil Balestro,-30.0775892,-51.2087528,TERESOPOLIS,Teresópolis
+4286919797,pharmacy,,-30.0100844,-51.1544304,CRISTO REDENTOR,Cristo Redentor
+4286920301,pharmacy,Panvel,-30.0086757,-51.1443961,SAO SEBASTIAO,São Sebastião
+4293444256,school,Escola Professora Marieta da Cunha Silva,-30.0404736,-51.1345466,MORRO SANTANA,Morro Santana
+4309382193,school,Colégio Marista Irmão Jaime Biazus,-30.0238933,-51.0964305,MARIO QUINTANA,Mário Quintana
+4312048990,pharmacy,Panvel,-30.0368188,-51.1864512,PETROPOLIS,Petrópolis
+4314736087,pharmacy,Farmacia Lessa,-30.2107487,-51.1817168,BELEM NOVO,Belém Novo
+4316180420,fire_station,Corpo de Bombeiros - Estação Belém Novo,-30.2068014,-51.1746561,BELEM NOVO,Belém Novo
+4390676351,school,Escola Municipal de Ensino Fundamental São Pedro,-30.1101491,-51.1017595,LOMBA DO PINHEIRO,Lomba do Pinheiro
+4401893091,pharmacy,Medsul Express,-30.0555378,-51.1469785,JARDIM CARVALHO,Jardim Carvalho
+4432817120,clinic,Posto de Saúde São José,-30.0706808,-51.169658,VILA SAO JOSE,Vila São José
+4432818160,police,Polícia Civil - 19º DP,-30.076047,-51.1617781,VILA SAO JOSE,Vila São José
+4437056131,pharmacy,,-30.0591962,-51.1459573,JARDIM CARVALHO,Jardim Carvalho
+4450687816,pharmacy,Farmais Paineira,-30.0403346,-51.1641394,BOM JESUS,Bom Jesus
+4567065707,pharmacy,Farmácia Ars Curandi,-30.0315388,-51.2246356,CENTRO HISTORICO,Centro Histórico
+4585894410,clinic,Unimed,-30.037603,-51.2106716,FARROUPILHA,Farroupilha
+4590243135,pharmacy,Sanar Rede de Farmácias,-30.0403349,-51.222853,CIDADE BAIXA,Cidade Baixa
+4597382721,pharmacy,,-30.0430869,-51.1368201,MORRO SANTANA,Morro Santana
+4613902690,pharmacy,Farmácia Super Econômica,-30.0104625,-51.1928306,SAO JOAO,São João
+4621886804,school,Colégio Luterano da Paz,-29.9956892,-51.12561,SARANDI,Sarandi
+4623389295,school,Escola Doutor Oswaldo Aranha,-30.025763,-51.1502371,VILA IPIRANGA,Vila Ipiranga
+4623389300,school,Escola Estadual Dr. Pacheco Prates,-30.1168345,-51.1791504,BELEM VELHO,Belém Velho
+4623389327,school,Escola Nossa Senhora da Conceicão,-30.1453509,-51.1136936,PITINGA,Pitinga
+4623389337,school,Escola Otavio Mangabeira,-30.104638,-51.233483,CAMAQUA,Camaquã
+4623389348,school,Escola Cidade Jardim,-30.0944584,-51.2218982,NONOAI,Nonoai
+4623389365,school,Escola Onofre Pires,-30.0844319,-51.1354282,LOMBA DO PINHEIRO,Lomba do Pinheiro
+4623389502,school,Factum Centro de Ideias em Educação,-30.0322617,-51.2295284,CENTRO HISTORICO,Centro Histórico
+4623389503,school,Escola Professor Larry José Ribeiro Alves,-30.1506962,-51.1441276,RESTINGA,Restinga
+4623389514,school,Escola Kinder Land,-30.0282554,-51.1490091,VILA JARDIM,Vila Jardim
+4623451150,school,Escola Paul Harris,-30.0839531,-51.230165,SANTA TEREZA,Santa Tereza
+4623451169,school,Escola Padre Leo,-30.014499,-51.0965,RUBEM BERTA,Rubem Berta
+4730615203,pharmacy,Farma1 Drogarias,-30.0197075,-51.1076435,JARDIM LEOPOLDINA,Jardim Leopoldina
+4732283871,pharmacy,Panvel,-30.0222513,-51.1848606,AUXILIADORA,Auxiliadora
+4747178821,school,Maple Bear,-30.0136175,-51.1843685,HIGIENOPOLIS,Higienópolis
+4763286051,clinic,Banco de Sangue do Hospital de Clínicas,-30.0387556,-51.205235,SANTA CECILIA,Santa Cecília
+4781155159,pharmacy,Panvel,-30.0244617,-51.2029311,MOINHOS DE VENTO,Moinhos de Vento
+4783315437,pharmacy,Farmácia Quíron Menino Deus,-30.0569671,-51.2229341,MENINO DEUS,Menino Deus
+4783315438,pharmacy,Farmácias São João,-30.0575674,-51.2226881,MENINO DEUS,Menino Deus
+4784882797,pharmacy,Panvel,-30.0373024,-51.2100624,FARROUPILHA,Farroupilha
+4786518443,pharmacy,Farmácia Quíron Cidade Baixa,-30.039197,-51.2200735,CIDADE BAIXA,Cidade Baixa
+4789239115,pharmacy,Drogabel,-30.0269158,-51.229561,CENTRO HISTORICO,Centro Histórico
+4805948816,pharmacy,Panvel,-30.0250876,-51.2033554,MOINHOS DE VENTO,Moinhos de Vento
+4805948817,pharmacy,Panvel,-30.0365059,-51.2090587,BOM FIM,Bom Fim
+4805948818,pharmacy,Panvel,-30.0407447,-51.209709,SANTANA,Santana
+4880339936,pharmacy,Farmácias Associadas,-30.0432128,-51.219646,AZENHA,Azenha
+4880339942,school,Rubik Pré-Enem,-30.0331298,-51.2152512,BOM FIM,Bom Fim
+4915326742,school,Escola Irmão Miguel Dario,-30.06898,-51.1362654,AGRONOMIA,Agronomia
+4980102145,clinic,SOS Consultas Médicas,-30.0152547,-51.1108493,PARQUE SANTA FE,Parque Santa Fé
+4980121128,clinic,SOS Consultas Medicas,-30.0106019,-51.1565328,CRISTO REDENTOR,Cristo Redentor
+5012815078,clinic,Sono - Clínica do Sono,-30.0247191,-51.1971249,MOINHOS DE VENTO,Moinhos de Vento
+5020366900,pharmacy,Farmácia São João,-30.0250399,-51.2015222,MOINHOS DE VENTO,Moinhos de Vento
+5020375066,school,Minds English School,-30.0257345,-51.2020779,MOINHOS DE VENTO,Moinhos de Vento
+5043652182,pharmacy,Panvel,-30.0436882,-51.187723,PETROPOLIS,Petrópolis
+5056007824,pharmacy,Farmácias São João,-30.0305738,-51.2234515,CENTRO HISTORICO,Centro Histórico
+5107495637,fire_station,Comando Geral do Corpo de Bombeiros Militar,-30.0417179,-51.2024061,SANTA CECILIA,Santa Cecília
+5109304822,police,Batalhão Brigada Miltar,-30.0023743,-51.1488451,JARDIM LINDOIA,Jardim Lindóia
+5160205840,clinic,Dr. Alan Silveira - Cirurgião Plástico,-30.0288762,-51.2027161,RIO BRANCO,Rio Branco
+5230884924,pharmacy,Ophtalmed,-30.0223386,-51.1540005,VILA IPIRANGA,Vila Ipiranga
+5306733106,pharmacy,Panvel,-30.1133218,-51.2553164,TRISTEZA,Tristeza
+5316639573,pharmacy,Panvel,-30.0973459,-51.2313159,CAVALHADA,Cavalhada
+5354805030,pharmacy,Maxxi Econômica,-30.0296743,-51.2256542,CENTRO HISTORICO,Centro Histórico
+5354812111,pharmacy,Farmácias São João,-30.0297798,-51.2248025,CENTRO HISTORICO,Centro Histórico
+5405432268,pharmacy,Agafarma,-29.98018,-51.1903298,HUMAITA,Humaitá
+5405432277,pharmacy,Sanar Humaitá,-29.9783896,-51.1897582,HUMAITA,Humaitá
+5593633556,pharmacy,Farmácias Associadas,-30.0040338,-51.1471055,SAO SEBASTIAO,São Sebastião
+5625097014,pharmacy,Farmácia Cristo Redentor,-30.0103237,-51.1583269,CRISTO REDENTOR,Cristo Redentor
+5625496796,pharmacy,Farmácia Popular Med,-30.0103479,-51.1585522,CRISTO REDENTOR,Cristo Redentor
+5627838545,pharmacy,Panvel,-30.0410944,-51.2159164,SANTANA,Santana
+5627838546,pharmacy,Farmácias Associadas,-30.0415486,-51.2163277,AZENHA,Azenha
+5752223184,police,Guarda Municipal,-30.0389588,-51.2415329,PRAIA DE BELAS,Praia de Belas
+5805255011,pharmacy,Farmácia São João,-30.1152352,-51.2127196,VILA NOVA,Vila Nova
+5842263913,pharmacy,Farmácia + Saúde,-30.0742113,-51.2027684,GLORIA,Glória
+6111929517,hospital,Hospital Santa Ana,-30.0870671,-51.2065358,TERESOPOLIS,Teresópolis
+6152425718,clinic,Centro de Atenção Psicossocial,-30.0193315,-51.212997,FLORESTA,Floresta
+6234297772,pharmacy,Bella Vida,-30.0388474,-51.212115,SANTANA,Santana
+6234297777,pharmacy,Preço Mais Popular,-30.0373838,-51.2102033,FARROUPILHA,Farroupilha
+6237404773,school,Ballet Redenção,-30.0394873,-51.2153339,FARROUPILHA,Farroupilha
+6237426817,pharmacy,Pague Menos,-30.0359827,-51.2099856,BOM FIM,Bom Fim
+6237781014,pharmacy,Calêndula Farmácias de Manipulação,-30.033179,-51.2107672,BOM FIM,Bom Fim
+6237840819,pharmacy,Pague Menos,-30.039449,-51.2201781,CIDADE BAIXA,Cidade Baixa
+6238095094,school,Escola Estadual de 1° Grau Professora Dinah Néri Pereira,-30.0377822,-51.2125287,FARROUPILHA,Farroupilha
+6238124023,school,Traços & Cores,-30.0381057,-51.2109643,SANTANA,Santana
+6238670868,pharmacy,Maxxi Econômica Farmácias,-30.0373344,-51.2095108,SANTANA,Santana
+6238689575,clinic,Centro de Reabilitação Física Clínica Santa Terezinha,-30.0372658,-51.2115936,FARROUPILHA,Farroupilha
+6238693202,school,Projeto Escola de 1º grau Incompleto - Unidade 2,-30.0372047,-51.211647,FARROUPILHA,Farroupilha
+6238705678,clinic,Interclin,-30.0380478,-51.2111435,FARROUPILHA,Farroupilha
+6238713402,clinic,"Ponto Extra - Acupuntura, Aromaterapia, Livraria",-30.0400143,-51.215477,FARROUPILHA,Farroupilha
+6239401783,school,Carrossel Escola Infantil,-30.040451,-51.2107162,SANTANA,Santana
+6239424235,pharmacy,Droga Raia,-30.0423031,-51.2122307,SANTANA,Santana
+6239449202,clinic,Cirurgia Plástica Dr. Isaac Suksteris,-30.0343246,-51.2107353,BOM FIM,Bom Fim
+6239468649,clinic,Laboratório Marques Pereira,-30.0316162,-51.2113075,BOM FIM,Bom Fim
+6239524962,pharmacy,Drogabel Ramiro Barcelos,-30.0372543,-51.2084198,SANTANA,Santana
+6239534306,pharmacy,Pharmaplus Farmacia de Manipulação,-30.0370674,-51.2085571,SANTANA,Santana
+6240012595,pharmacy,Fiton Farmácia,-30.0413055,-51.2106056,SANTANA,Santana
+6240738931,pharmacy,Panvel,-30.0367454,-51.2233783,CIDADE BAIXA,Cidade Baixa
+6242473765,clinic,Clinica Pronto Olhos e Otorrino,-30.0384235,-51.2096138,SANTANA,Santana
+6242474355,school,Iei Santa Teresinha,-30.037693,-51.2107353,FARROUPILHA,Farroupilha
+6242510643,pharmacy,Clinifarma,-30.0399704,-51.2083626,SANTANA,Santana
+6242533318,clinic,Ortopedia Servital,-30.0400047,-51.2083855,SANTANA,Santana
+6257072736,clinic,Exato Laboratórios Clinicod,-30.0379467,-51.2034264,RIO BRANCO,Rio Branco
+6261008533,clinic,Mamo Rad Instituto de Diagnóstico por Imagem,-30.0337948,-51.1865808,BELA VISTA,Bela Vista
+6340524615,pharmacy,Panvel,-30.0226258,-51.174505,BOA VISTA,Boa Vista
+6356212201,pharmacy,Farmácias Associadas,-30.0349732,-51.225589,CENTRO HISTORICO,Centro Histórico
+6472532628,pharmacy,Farmácia São João,-30.010367,-51.1588392,CRISTO REDENTOR,Cristo Redentor
+6791167731,pharmacy,São João,-30.0290998,-51.2082081,RIO BRANCO,Rio Branco
+6805506414,clinic,CAPS II HCPA,-30.0386599,-51.2071285,SANTA CECILIA,Santa Cecília
+6805768732,clinic,Geração POA - Oficina Saúde e Trabalho,-30.0323557,-51.2033897,RIO BRANCO,Rio Branco
+6828219093,pharmacy,Alquimia,-30.029745,-51.2080236,RIO BRANCO,Rio Branco
+6859016456,pharmacy,Panvel,-30.0288161,-51.2041674,RIO BRANCO,Rio Branco
+6859016463,pharmacy,Panvel,-30.0245891,-51.2010785,MOINHOS DE VENTO,Moinhos de Vento
+6881383283,pharmacy,Sanar,-30.0026344,-51.1456341,SAO SEBASTIAO,São Sebastião
+6881396512,pharmacy,São João,-30.0039675,-51.1462311,SAO SEBASTIAO,São Sebastião
+6903444598,pharmacy,Farmais,-30.0417947,-51.1510904,BOM JESUS,Bom Jesus
+6903780652,school,EMEI Ponta Grossa,-30.185248,-51.2100496,PONTA GROSSA,Ponta Grossa
+6903780653,school,Escola Estadual de Ensino Fundamental Dr. José Loureiro da Silva,-30.1853389,-51.2093795,PONTA GROSSA,Ponta Grossa
+6903954895,pharmacy,São João,-30.1325527,-51.2334278,IPANEMA,Ipanema
+6907414587,police,Brigada Militar,-30.1810141,-51.1754336,CHAPEU DO SOL,Chapéu do Sol
+6909248034,pharmacy,Panvel,-30.0740131,-51.2030534,GLORIA,Glória
+7118171140,pharmacy,São João,-29.9990648,-51.1985937,NAVEGANTES,Navegantes
+7143280217,pharmacy,Farmácias Associadas,-30.0365704,-51.2089028,BOM FIM,Bom Fim
+7143280218,pharmacy,São João,-30.0366473,-51.2087449,BOM FIM,Bom Fim
+7178015461,pharmacy,São João,-30.0492433,-51.203193,SANTANA,Santana
+7180073227,clinic,Andrea Mendonça Rodrigues - Pneumologista Pediátrica,-30.0341587,-51.2128487,BOM FIM,Bom Fim
+7180144816,school,Bijam Escola de Yoga,-30.0340958,-51.2107353,BOM FIM,Bom Fim
+7214969768,clinic,Dra.Carla Leite | Oftalmologista,-30.0211086,-51.1936264,AUXILIADORA,Auxiliadora
+7223207452,clinic,Clinivida,-30.0321293,-51.2121582,BOM FIM,Bom Fim
+7223274120,clinic,Clínica Estrázulas de Psicologia,-30.0366898,-51.210289,FARROUPILHA,Farroupilha
+7223276683,school,Escola Estadual de 1° Grau Professora Dinah Néri Pereira,-30.0377903,-51.2125435,FARROUPILHA,Farroupilha
+7230096032,pharmacy,São João,-30.0361977,-51.2095795,BOM FIM,Bom Fim
+7231189719,clinic,Renato Cassol - Infectologista,-30.0298233,-51.2117424,INDEPENDENCIA,Independência
+7231265525,clinic,Dermalaser Clínica Dermatológica,-30.0288677,-51.2025833,RIO BRANCO,Rio Branco
+7232595483,clinic,Massoterapia,-30.0388697,-51.2121111,SANTANA,Santana
+7323342342,pharmacy,Agafarma,-30.1196852,-51.2073243,VILA NOVA,Vila Nova
+7377400139,police,Brigada Militar,-29.976235,-51.1913801,FARRAPOS,Farrapos
+7498713456,pharmacy,Panvel,-29.9993666,-51.1313698,SARANDI,Sarandi
+7798876479,pharmacy,Panvel,-30.0337403,-51.2022735,RIO BRANCO,Rio Branco
+7857834010,school,Ludoteca Pulo do Gato,-30.0491392,-51.2028773,SANTANA,Santana
+7924152703,pharmacy,Farmácias Associadas,-30.0025393,-51.1650309,JARDIM SAO PEDRO,Jardim São Pedro
+7986977885,clinic,Plínio Velozo - Psicólogo,-30.1117864,-51.2555234,TRISTEZA,Tristeza
+8730543929,clinic,,-30.0432743,-51.1536603,BOM JESUS,Bom Jesus
+8730543930,clinic,,-30.0432763,-51.153849,BOM JESUS,Bom Jesus
+8730543941,clinic,Centro de Especialidades Odontológicas Bom Jesus,-30.0429178,-51.1539447,BOM JESUS,Bom Jesus
+8858775068,clinic,Docctor Med,-30.1552126,-51.1753517,HIPICA,Hípica
+8858775078,pharmacy,São João,-30.1552872,-51.1749272,HIPICA,Hípica
+8858775080,pharmacy,Agafarma,-30.1553059,-51.1747911,HIPICA,Hípica
+8863559503,pharmacy,Agafarma,-30.1558659,-51.1821576,HIPICA,Hípica
+9020331427,pharmacy,Panvel,-29.9991622,-51.1910798,NAVEGANTES,Navegantes
+9579617221,police,Polícia Federal do Brasil,-29.9902452,-51.176529,ANCHIETA,Anchieta
+9710344117,pharmacy,Farmácias Associadas,-30.0595823,-51.228548,MENINO DEUS,Menino Deus
+9960425873,pharmacy,Panvel,-30.1323625,-51.2339158,IPANEMA,Ipanema
+10043805617,pharmacy,Panvel,-30.0809892,-51.2099161,TERESOPOLIS,Teresópolis
+10043805618,pharmacy,Panvel,-30.0826016,-51.2137773,NONOAI,Nonoai
+10205285439,pharmacy,Farmácias Associadas,-30.0084346,-51.1785794,SANTA MARIA GORETTI,Santa Maria Goretti
+10591673950,pharmacy,Farmácia do Trabalhador,-30.0116614,-51.1684965,PASSO D AREIA,Passo D'Areia
+11030466129,school,Colégio Sinodal do Salvador,-30.0134631,-51.1473057,VILA IPIRANGA,Vila Ipiranga
+11038306535,pharmacy,Agafarma,-30.0155138,-51.1102122,PARQUE SANTA FE,Parque Santa Fé
+11140036705,pharmacy,São João,-30.1384572,-51.2206228,IPANEMA,Ipanema
+11153425093,school,Monteiro Open,-30.0242334,-51.1738994,BOA VISTA,Boa Vista
+11157686387,pharmacy,,-30.0301866,-51.1435202,JARDIM SABARA,Jardim Sabará
+11157686388,pharmacy,,-30.0301724,-51.1429995,JARDIM SABARA,Jardim Sabará
+11439151529,pharmacy,Panvel,-30.0232499,-51.2012598,MOINHOS DE VENTO,Moinhos de Vento
+11461197069,pharmacy,Droga Raia,-30.0582454,-51.1951581,PARTENON,Partenon
+11510943915,clinic,Clínica Teichert Odontologia Estética e Implantodontia,-30.0294056,-51.179551,TRES FIGUEIRAS,Três Figueiras
+11579240710,school,Escola Estadual de Ensino Médio Agrônomo Pedro Pereira,-30.0747727,-51.1344917,AGRONOMIA,Agronomia
+11725802997,clinic,Instituto Hyllua Husein,-30.0494764,-51.2275819,MENINO DEUS,Menino Deus
+11770123569,clinic,UBS Ipanema,-30.1342713,-51.2301477,IPANEMA,Ipanema
+11990879829,hospital,Clínica da Família- Campo da Tuca,-30.0679204,-51.177007,VILA JOAO PESSOA,Vila João Pessoa
+11991930461,pharmacy,Panvel,-30.043945,-51.143567,JARDIM CARVALHO,Jardim Carvalho
+11991981896,pharmacy,,-30.0412937,-51.1538422,VILA JARDIM,Vila Jardim
+12072290545,pharmacy,Agafarma,-30.0342157,-51.2365024,CENTRO HISTORICO,Centro Histórico
+12327743400,pharmacy,Panvel,-30.0537082,-51.2283542,MENINO DEUS,Menino Deus
+12327813436,pharmacy,Panvel,-30.0920791,-51.2419027,CRISTAL,Cristal
+12327829696,pharmacy,Farmácias São João,-30.0506894,-51.1943974,JARDIM BOTANICO,Jardim Botânico
+12374599699,pharmacy,São João,-30.0310533,-51.2143388,BOM FIM,Bom Fim
+12560030368,pharmacy,Farmácia São João,-30.1577066,-51.1622778,HIPICA,Hípica
+12708332329,clinic,US Jardim das Palmeiras,-30.1020471,-51.2250983,CAVALHADA,Cavalhada
+13082356196,pharmacy,Farmácias Associadas,-30.0306345,-51.2321838,CENTRO HISTORICO,Centro Histórico
+13252269198,pharmacy,Droga Raia,-30.0526976,-51.1878631,JARDIM BOTANICO,Jardim Botânico
+13252269199,pharmacy,Pague Menos,-30.0525467,-51.1882762,JARDIM BOTANICO,Jardim Botânico
+13265828501,clinic,Unidade de Saúde Moradas da Hípica,-30.1586621,-51.1761249,HIPICA,Hípica
+13512254479,pharmacy,Panvel,-30.0161481,-51.1082445,PARQUE SANTA FE,Parque Santa Fé
+13512583981,police,20º Batalhão de Polícia Militar,-30.0125686,-51.1234642,COSTA E SILVA,Costa e Silva
+13512685944,pharmacy,Farmácia São João,-30.0147436,-51.1116017,PARQUE SANTA FE,Parque Santa Fé
+13645291391,pharmacy,Panvel,-30.0289246,-51.2245572,CENTRO HISTORICO,Centro Histórico
+13646358494,pharmacy,Preço Popular,-30.0298255,-51.2258463,CENTRO HISTORICO,Centro Histórico
+13685544111,pharmacy,Farmácia São João,-30.1660221,-51.1547437,RESTINGA,Restinga
+13785632095,clinic,Unidade de Saúde São José,-30.0690661,-51.1707702,VILA JOAO PESSOA,Vila João Pessoa
+14269617917,pharmacy,São João,-30.0100676,-51.2039435,SAO GERALDO,São Geraldo
+49861325,school,Escola Vila Cruzeiro do Sul - Escola Aberta,-30.0812605,-51.23139,SANTA TEREZA,Santa Tereza
+70944661,school,Escola Uruguai,-30.0276035,-51.1986809,MOINHOS DE VENTO,Moinhos de Vento
+74033469,police,Sede da Polícia Rodoviária Federal no Rio Grande do Sul,-29.984329,-51.1793263,ANCHIETA,Anchieta
+98508484,school,Escola Panamericana de Educação Básica,-30.0357766,-51.1827813,PETROPOLIS,Petrópolis
+125935710,school,Colégio de Aplicação da UFRGS,-30.0759799,-51.122555,AGRONOMIA,Agronomia
+126014186,police,Brigada Militar,-30.0362343,-51.2108539,FARROUPILHA,Farroupilha
+126014194,hospital,Santa Casa de Misericórdia,-30.0308422,-51.2214697,CENTRO HISTORICO,Centro Histórico
+126014204,hospital,Hospital Dom Vicente Scherer,-30.0301595,-51.220328,CENTRO HISTORICO,Centro Histórico
+126014205,hospital,Hospital Santa Rita,-30.030957,-51.2202761,CENTRO HISTORICO,Centro Histórico
+126014206,hospital,Hospital de Clínicas,-30.0387315,-51.2066231,SANTA CECILIA,Santa Cecília
+126014341,clinic,Unidade Básica de Saúde Santa Cecília,-30.0386926,-51.2053581,SANTA CECILIA,Santa Cecília
+129177014,fire_station,Grupamento de Busca e Salvamento,-30.0252181,-51.2269667,CENTRO HISTORICO,Centro Histórico
+132023531,hospital,Hospital Militar de Área de Porto Alegre,-30.0185952,-51.1927834,AUXILIADORA,Auxiliadora
+167286273,hospital,Hospital da Criança Santo Antônio,-30.0301125,-51.2199466,CENTRO HISTORICO,Centro Histórico
+167286408,hospital,Hospital Pavilhão Pereira Filho,-30.0304237,-51.2211814,CENTRO HISTORICO,Centro Histórico
+167286415,hospital,Hospital São José,-30.0306155,-51.2215025,CENTRO HISTORICO,Centro Histórico
+167286458,hospital,Hospital São Francisco,-30.0302323,-51.2219579,CENTRO HISTORICO,Centro Histórico
+168366241,school,Centro de Ensino Pastor Dohms Higienópolis,-30.012858,-51.1873104,HIGIENOPOLIS,Higienópolis
+174556786,school,Pastor Dohms,-30.0128361,-51.1873006,HIGIENOPOLIS,Higienópolis
+177769348,school,Escola Plácido de Castro,-30.0125427,-51.1861745,HIGIENOPOLIS,Higienópolis
+188847974,school,Colégio Adventista,-30.1037664,-51.2385695,CAMAQUA,Camaquã
+188847975,school,Escola Monsenhor Roberto Landell de Moura,-30.1079563,-51.2493998,TRISTEZA,Tristeza
+188942536,police,13ª DPC,-30.1019305,-51.2300424,CAVALHADA,Cavalhada
+189120164,school,Escola Três de Outubro,-30.1110032,-51.2540614,TRISTEZA,Tristeza
+191652244,pharmacy,Agafarma,-30.1098343,-51.2441436,CAMAQUA,Camaquã
+191652246,school,Colégio Mãe de Deus,-30.1118215,-51.2484752,TRISTEZA,Tristeza
+191652248,pharmacy,Johnson Farmácia de Manipulação,-30.1137033,-51.2546117,TRISTEZA,Tristeza
+191655965,pharmacy,Panvel,-30.102385,-51.2314405,CAVALHADA,Cavalhada
+192025907,school,Unificado Zona Sul,-30.108558,-51.2521376,TRISTEZA,Tristeza
+206858957,school,EEEM Santos Dumont,-30.1026498,-51.2601204,VILA ASSUNCAO,Vila Assunção
+209036519,school,Sociedade Educacional Monteiro Lobato,-30.029812,-51.2300844,CENTRO HISTORICO,Centro Histórico
+210320258,school,Colégio Paulo de Nadal,-30.1152326,-51.2266671,CAVALHADA,Cavalhada
+210320260,school,Instituto Santa Luzia,-30.1117032,-51.2286609,CAVALHADA,Cavalhada
+213574650,school,Escola Rio de Janeiro,-30.0365624,-51.2227017,CIDADE BAIXA,Cidade Baixa
+214487562,hospital,Instituto de Cardiologia,-30.0492412,-51.2090193,SANTANA,Santana
+218339096,school,Escola Chapéu do Sol,-30.1768781,-51.1737862,CHAPEU DO SOL,Chapéu do Sol
+220006414,school,Escola Paulo da Gama,-30.0693694,-51.1853282,CORONEL APARICIO BORGES,Coronel Aparício Borges
+228079151,fire_station,1º CRB,-30.0435747,-51.2283831,PRAIA DE BELAS,Praia de Belas
+228460796,school,Colégio Marista Champagnat,-30.06009,-51.1727197,PARTENON,Partenon
+230014410,school,Escola Professor Olintho de Oliveira,-30.039505,-51.2256473,CIDADE BAIXA,Cidade Baixa
+231518133,school,Escola Nossa Senhora do Carmo,-30.1456956,-51.1277399,RESTINGA,Restinga
+231918978,school,Escola Araguaia,-30.1538853,-51.1828699,HIPICA,Hípica
+231918979,school,Escola Maria Altina,-30.1371217,-51.1733881,HIPICA,Hípica
+231918980,school,Escola Oscar Coelho de Souza,-30.2200423,-51.0970057,LAMI,Lami
+231918981,school,Escola Padre Reus,-30.1088337,-51.2528111,TRISTEZA,Tristeza
+231949173,school,Escola Saint Hilaire,-30.1234092,-51.0976864,LOMBA DO PINHEIRO,Lomba do Pinheiro
+231974799,school,Escola Mariz e Barros,-30.0358537,-51.1067071,MARIO QUINTANA,Mário Quintana
+233417824,school,Escola Prudente de Morais,-30.0338002,-51.1641855,CHACARA DAS PEDRAS,Chácara das Pedras
+233635165,hospital,Hospital Mãe de Deus,-30.0590283,-51.2289433,MENINO DEUS,Menino Deus
+233765098,school,Escola Menino Deus,-30.0613662,-51.2233341,MENINO DEUS,Menino Deus
+233791059,hospital,Centro de Saúde Modelo,-30.0433298,-51.2139229,SANTANA,Santana
+233806011,hospital,Hospital Porto Alegre,-30.0452461,-51.2169892,AZENHA,Azenha
+233807021,school,Escola Mané Garrincha,-30.0568034,-51.2187455,MENINO DEUS,Menino Deus
+233995875,school,Colégio Estadual Júlio de Castilhos,-30.0441308,-51.2125779,SANTANA,Santana
+234164668,school,Colégio Militar,-30.0388025,-51.213388,FARROUPILHA,Farroupilha
+234802084,fire_station,Estação do Corpo de Bombeiros,-30.0091387,-51.1486578,SAO SEBASTIAO,São Sebastião
+234811509,school,Escola Brigadeiro Francisco de Lima e Silva,-30.0165006,-51.1486759,VILA IPIRANGA,Vila Ipiranga
+234811929,clinic,Unidade Básica de Saúde Vila Ipiranga,-30.0271402,-51.1492417,VILA IPIRANGA,Vila Ipiranga
+234811934,school,Escola Estadual de Educação Básica Gomes Carneiro,-30.0226302,-51.152966,VILA IPIRANGA,Vila Ipiranga
+234811935,hospital,Hospital Banco de Olhos,-30.0221095,-51.1541727,VILA IPIRANGA,Vila Ipiranga
+234917200,pharmacy,Farmácia Central,-30.0510357,-51.2217545,MENINO DEUS,Menino Deus
+234917202,pharmacy,Farmácia Central,-30.0472518,-51.2211829,MENINO DEUS,Menino Deus
+235005347,police,11º BPM,-30.0175097,-51.1624645,PASSO D AREIA,Passo D'Areia
+235006076,pharmacy,Farmácias DrogaRaia,-30.0120303,-51.166207,PASSO D AREIA,Passo D'Areia
+235006241,pharmacy,Panvel,-30.0121431,-51.1677943,PASSO D AREIA,Passo D'Areia
+235006845,pharmacy,Farmácia DrogaRaia,-30.0284914,-51.1686484,TRES FIGUEIRAS,Três Figueiras
+235379350,school,Escola Afonso Guerreiro Lima,-30.0718473,-51.2214745,SANTA TEREZA,Santa Tereza
+235379352,hospital,Pronto Atendimento Cruzeiro do Sul,-30.0696103,-51.2165134,SANTA TEREZA,Santa Tereza
+235503027,hospital,Hospital Cristo Redentor,-30.0100765,-51.1594948,CRISTO REDENTOR,Cristo Redentor
+235551626,school,Colégio Conhecer,-30.0716244,-51.2280305,SANTA TEREZA,Santa Tereza
+235750705,school,Colégio Paula Soares,-30.0343434,-51.2312885,CENTRO HISTORICO,Centro Histórico
+235750709,school,Colégio ACM Centro,-30.0373405,-51.229776,CENTRO HISTORICO,Centro Histórico
+236006289,police,2.ª Delegacia de Polícia Civil,-30.0558881,-51.222019,MENINO DEUS,Menino Deus
+236012112,school,Escola Paulina Moresco,-30.1336799,-51.1979505,CAMPO NOVO,Campo Novo
+237136940,clinic,Centro de Saúde Bom Jesus,-30.0430926,-51.153779,BOM JESUS,Bom Jesus
+237145277,school,Instituto de Educação,-30.0336901,-51.2173098,FARROUPILHA,Farroupilha
+237699328,school,Pré-vestibular Universitário,-30.0261792,-51.1828019,MONT SERRAT,Mont'Serrat
+237709751,hospital,Hospital Nossa Senhora da Conceição,-30.0158834,-51.1586659,CRISTO REDENTOR,Cristo Redentor
+237709752,hospital,,-30.0152229,-51.1581178,CRISTO REDENTOR,Cristo Redentor
+237709753,hospital,Hospital da Criança Conceição,-30.0156004,-51.1575805,CRISTO REDENTOR,Cristo Redentor
+237742811,pharmacy,Panvel Express,-30.0284394,-51.1639921,CHACARA DAS PEDRAS,Chácara das Pedras
+237745305,school,Unificado,-30.0279212,-51.1682704,BOA VISTA,Boa Vista
+237747864,school,Colégio Província de São Pedro,-30.0256451,-51.1737552,BOA VISTA,Boa Vista
+239631306,police,14ª DPC,-30.0271244,-51.1510692,VILA IPIRANGA,Vila Ipiranga
+239661218,school,Escola Técnica José César de Mesquita,-30.0116106,-51.1538766,CRISTO REDENTOR,Cristo Redentor
+239661220,school,Colégio São Judas Tadeu,-30.0114891,-51.1546935,CRISTO REDENTOR,Cristo Redentor
+239664213,hospital,Centro Clínico Gaúcho,-30.012187,-51.1537934,CRISTO REDENTOR,Cristo Redentor
+240718773,hospital,Hospital Psiquiátrico São Pedro,-30.0599868,-51.1878742,PARTENON,Partenon
+240972515,school,Instituto Vicente Pallotti,-30.0102079,-51.1695577,PASSO D AREIA,Passo D'Areia
+241947020,school,Colégio La Salle Santo Antônio,-30.055459,-51.2021721,SANTO ANTONIO,Santo Antônio
+242671740,school,Escola Poncho Verde,-30.0042918,-51.1107459,COSTA E SILVA,Costa e Silva
+243044110,hospital,Futuras instalações do Complexo Hospitalar São Miguel (antigo Hospital Parque Belém),-30.1064501,-51.1718231,BELEM VELHO,Belém Velho
+243118480,school,Colégio Estadual Professor Otávio de Souza,-30.0527524,-51.1861075,JARDIM BOTANICO,Jardim Botânico
+243118482,school,Escola Vereador Carlos Pessoa de Brum,-30.1570523,-51.1356349,RESTINGA,Restinga
+243118484,school,Escola Eduardo Gomes,-29.9769209,-51.1745633,ANCHIETA,Anchieta
+243118486,school,Escola José do Patrocínio,-30.1579303,-51.1403399,RESTINGA,Restinga
+243118489,school,Escola Afonso Guerreiro Lima,-30.1109792,-51.1128079,LOMBA DO PINHEIRO,Lomba do Pinheiro
+243118491,school,Escola Tancredo Neves,-30.1436798,-51.2066667,IPANEMA,Ipanema
+243118496,school,Escola Vinicius de Moraes,-30.1489179,-51.1416099,RESTINGA,Restinga
+243159208,school,Escola Dolores Alcaraz Caldas,-30.1511352,-51.1373979,RESTINGA,Restinga
+243161412,school,Escola Alberto Pasqualini,-30.1528367,-51.1436479,RESTINGA,Restinga
+243181713,school,Colégio Ildo Meneghetti,-30.15427,-51.1475491,RESTINGA,Restinga
+243238223,hospital,Pronto-Atendimento Saúde Restinga,-30.148814,-51.1460135,RESTINGA,Restinga
+243350546,school,Escola Leocádia Felizardo Prestes,-30.1289505,-51.2165112,CAVALHADA,Cavalhada
+243350547,school,Escola Martim Aranha,-30.0852129,-51.227807,SANTA TEREZA,Santa Tereza
+243350548,school,Escola Álvaro Alberto da Motta e Silva,-30.0810778,-51.2256795,SANTA TEREZA,Santa Tereza
+243368223,school,Escola Lidovino Fanton,-30.1619109,-51.1434759,RESTINGA,Restinga
+243431951,school,Escola Paraíba,-30.1381745,-51.216003,IPANEMA,Ipanema
+243463347,school,Escola Visconde do Rio Grande,-30.1024655,-51.2291829,CAVALHADA,Cavalhada
+243500925,school,Escola Heróphilo Carvalho de Azambuja,-30.0551024,-51.1498644,JARDIM CARVALHO,Jardim Carvalho
+243505609,school,Colégio Nossa Senhora da Glória,-30.0766526,-51.1992774,GLORIA,Glória
+243505610,school,Escola Emílio Meyer,-30.068611,-51.2083769,MEDIANEIRA,Medianeira
+243800321,school,Escola Coelho Neto,-30.0441947,-51.1638905,BOM JESUS,Bom Jesus
+243800322,school,Escola Imperatriz Leopoldina,-30.036703,-51.1837166,PETROPOLIS,Petrópolis
+243800323,school,Escola Professor Júlio Grau,-30.0052482,-51.1809224,SANTA MARIA GORETTI,Santa Maria Goretti
+244050541,school,Colégio Japão,-30.0321154,-51.1420563,JARDIM SABARA,Jardim Sabará
+244050542,school,Colégio Ruben Berta,-30.0299812,-51.1514339,VILA JARDIM,Vila Jardim
+244050543,school,Escola Antão de Faria,-30.0439518,-51.1523505,BOM JESUS,Bom Jesus
+244050544,school,Escola Araújo Porto Alegre,-29.9861257,-51.1251693,SARANDI,Sarandi
+244050545,school,Escola Ernesto Tocchetto,-29.998309,-51.1590551,JARDIM FLORESTA,Jardim Floresta
+244050546,school,Escola Estadual Décio Martins Costa,-29.9822981,-51.1348141,SARANDI,Sarandi
+244050547,school,Escola Itália,-30.0198415,-51.1420419,JARDIM ITU,Jardim Itu
+244050548,school,Escola João Goulart,-29.9790707,-51.1264899,SARANDI,Sarandi
+244050549,school,Escola Marechal Mallet,-30.0297776,-51.1501225,VILA JARDIM,Vila Jardim
+244050550,school,Escola Miguel José Pereira,-29.9860952,-51.1276186,SARANDI,Sarandi
+244050551,school,Escola Municipal Décio Martins Costa,-29.9893577,-51.1070656,SANTA ROSA DE LIMA,Santa Rosa de Lima
+244050553,school,Escola Salgado Filho,-30.0475689,-51.1357236,MORRO SANTANA,Morro Santana
+244050554,school,Escola Sarmento Leite,-30.0056626,-51.1619539,CRISTO REDENTOR,Cristo Redentor
+244050555,school,Escola Timbaúva,-30.0218124,-51.0952913,MARIO QUINTANA,Mário Quintana
+244050559,clinic,UBS Jardim Itú,-30.0238985,-51.1426295,JARDIM ITU,Jardim Itu
+244050597,school,,-30.0254589,-51.117782,JARDIM LEOPOLDINA,Jardim Leopoldina
+244050673,police,4ª Companhia 20º BPM,-29.9862869,-51.1273906,SARANDI,Sarandi
+244250676,school,Escola América,-30.0153826,-51.1216489,PASSO DAS PEDRAS,Passo das Pedras
+244250678,school,Escola Ildo Meneghetti,-29.9932277,-51.1057914,SANTA ROSA DE LIMA,Santa Rosa de Lima
+244250681,school,Escola Liberato Salzano Vieira da Cunha,-29.9942836,-51.1331689,SARANDI,Sarandi
+244373290,school,Escola Monsenhor Leopoldo Neis,-30.0850893,-51.1864075,GLORIA,Glória
+244450979,school,Colégio Marista Rosário,-30.0305834,-51.218215,BOM FIM,Bom Fim
+244633502,school,Colégio Marista Assunção,-30.0758025,-51.2030692,GLORIA,Glória
+244644162,hospital,Hospital de Pronto Socorro,-30.0369082,-51.2098246,FARROUPILHA,Farroupilha
+244692896,school,Escola José Carlos Ferreira,-30.0679987,-51.1915884,PARTENON,Partenon
+244787098,school,Colégio Adventista Marechal Rondon,-30.0130583,-51.1489579,VILA IPIRANGA,Vila Ipiranga
+244787100,school,Colégio Santa Dorotéia,-30.0146725,-51.1495035,VILA IPIRANGA,Vila Ipiranga
+244789157,clinic,Clínica Pinel,-30.0507029,-51.2068058,SANTANA,Santana
+244869431,school,Escola Raio de Sol,-30.1327233,-51.1996907,CAMPO NOVO,Campo Novo
+244869432,clinic,UBS Campo Novo,-30.1329479,-51.1998891,CAMPO NOVO,Campo Novo
+245395263,school,Escola Santa Rita de Cássia,-30.074217,-51.2302619,SANTA TEREZA,Santa Tereza
+245577974,school,Colégio Israelita Brasileiro,-30.0401013,-51.1992683,SANTA CECILIA,Santa Cecília
+245577975,school,Colégio Leonardo da Vinci Unidade Alfa,-30.0345238,-51.2027878,RIO BRANCO,Rio Branco
+245577976,school,Colégio Metodista Americano,-30.0365804,-51.2004271,RIO BRANCO,Rio Branco
+245577977,school,Colégio Santa Inês,-30.0442111,-51.1843839,PETROPOLIS,Petrópolis
+245577981,school,Instituto Rio Branco,-30.0403856,-51.1983267,SANTA CECILIA,Santa Cecília
+246687554,school,Colégio Caldas Junior,-30.0581683,-51.1599535,PARTENON,Partenon
+246687556,school,Escola de Educação Especial Barbara Sybille Fischinger,-30.059005,-51.1599829,PARTENON,Partenon
+248405681,hospital,Hospital São Lucas da PUCRS,-30.0550444,-51.1758004,JARDIM BOTANICO,Jardim Botânico
+248405682,hospital,Instituto do Cérebro Do Rio Grande do Sul (INSCER),-30.0552069,-51.1738488,JARDIM BOTANICO,Jardim Botânico
+249901840,clinic,,-30.113241,-51.1652707,BELEM VELHO,Belém Velho
+250410834,school,Escola Luiz Gama,-30.1123989,-51.1534458,BELEM VELHO,Belém Velho
+251412433,school,Escola Presidente Roosevelt,-30.0535621,-51.2264256,MENINO DEUS,Menino Deus
+251573819,school,Escola Amigos do Verde,-30.017672,-51.185503,HIGIENOPOLIS,Higienópolis
+253333228,police,Corregedoria-Geral de Polícia,-30.0324924,-51.2176518,BOM FIM,Bom Fim
+253675650,school,Escola Aldo Locatelli,-30.0484992,-51.1461556,JARDIM CARVALHO,Jardim Carvalho
+253675656,school,Escola Érico Veríssimo,-30.0576009,-51.1434846,JARDIM CARVALHO,Jardim Carvalho
+253881073,school,Escola Leopoldo Tietböhl,-30.0472314,-51.1881707,PETROPOLIS,Petrópolis
+254219038,school,Instituto Estadual Professora Gema Angelina Belia,-30.0612601,-51.1473236,JARDIM CARVALHO,Jardim Carvalho
+254219042,hospital,Hospital Independência,-30.0610999,-51.1495013,JARDIM CARVALHO,Jardim Carvalho
+254219044,school,Escola General Ibá Ilha Moreira,-30.0541157,-51.1502675,JARDIM CARVALHO,Jardim Carvalho
+255629084,school,Escola José Mariano Beck,-30.0481419,-51.1560023,BOM JESUS,Bom Jesus
+255629085,school,Escola Nossa Senhora de Fátima,-30.0469035,-51.1580295,BOM JESUS,Bom Jesus
+260145453,school,Escola General Daltro Filho,-30.0191708,-51.1961419,AUXILIADORA,Auxiliadora
+260548308,school,Escola Senador Ernesto Dornelles,-30.0348171,-51.2376284,CENTRO HISTORICO,Centro Histórico
+261156499,pharmacy,Farmácia Duarte,-30.0192174,-51.1518087,VILA IPIRANGA,Vila Ipiranga
+263082479,pharmacy,Santa Clara,-30.0597002,-51.1920666,PARTENON,Partenon
+263116370,pharmacy,Drogaria Cascata,-30.0757031,-51.2009344,GLORIA,Glória
+272808353,school,Colégio Florinda Tubino Sampaio,-30.0407213,-51.1816214,PETROPOLIS,Petrópolis
+273623019,school,Escola Bahia,-30.0241242,-51.1747741,BOA VISTA,Boa Vista
+273636403,school,Escola La Salle Esmeralda,-30.089888,-51.1255182,LOMBA DO PINHEIRO,Lomba do Pinheiro
+275303263,school,Escola Anísio Teixeira,-30.1594709,-51.2002614,ABERTA DOS MORROS,Aberta dos Morros
+275303266,school,Escola Moradas da Hípica,-30.1590754,-51.1711557,HIPICA,Hípica
+284720553,school,Escola Fabíola Pinto Dornelles,-30.0196047,-51.1799332,HIGIENOPOLIS,Higienópolis
+285843181,school,Colégio Maria Imaculada,-30.0677632,-51.2351661,SANTA TEREZA,Santa Tereza
+287384226,school,Escola Euclides da Cunha,-30.0630775,-51.2275443,MENINO DEUS,Menino Deus
+287533436,school,Escola La Salle Pão dos Pobres,-30.0405318,-51.2274437,CIDADE BAIXA,Cidade Baixa
+287717506,school,Escola Simões Lopes Neto,-30.0854686,-51.2078439,TERESOPOLIS,Teresópolis
+287753232,school,Escola Dolores Alcaraz Caldas,-30.018831,-51.1613371,PASSO D AREIA,Passo D'Areia
+287753235,school,Escola Monsenhor Leopoldo Hoff,-30.0380036,-51.1632264,CHACARA DAS PEDRAS,Chácara das Pedras
+287753242,school,Colégio Farroupilha,-30.0357897,-51.1703469,TRES FIGUEIRAS,Três Figueiras
+288129095,police,Delegacia PRF em Porto Alegre,-29.9699264,-51.1707998,ANCHIETA,Anchieta
+288987786,school,,-29.9929827,-51.1922962,HUMAITA,Humaitá
+291503707,pharmacy,Panvel,-30.0225104,-51.2094216,FLORESTA,Floresta
+294988912,school,AACD,-30.0530807,-51.1689083,JARDIM DO SALSO,Jardim do Salso
+296025383,school,Escola Técnica Irmão Pedro,-30.0173301,-51.2029874,FLORESTA,Floresta
+296026897,school,Colégio João Paulo I - JPHIGI,-30.0171338,-51.1925081,SAO JOAO,São João
+296028351,school,Colégio Estadual Piratini,-30.0239298,-51.1916072,AUXILIADORA,Auxiliadora
+296029869,school,Escola República Argentina,-30.0031169,-51.148707,JARDIM LINDOIA,Jardim Lindóia
+296030221,school,Colégio Dom Diogo de Souza,-30.0124047,-51.1554823,CRISTO REDENTOR,Cristo Redentor
+296036097,school,Escola Gonçalves Dias,-30.0104253,-51.1743744,PASSO D AREIA,Passo D'Areia
+296037191,school,Colégio Dom João Becker,-30.012517,-51.1766964,PASSO D AREIA,Passo D'Areia
+296040697,school,Escola Cenáculo,-30.0158663,-51.1750813,PASSO D AREIA,Passo D'Areia
+296050257,school,Escola Vera Cruz,-30.0735989,-51.2039004,GLORIA,Glória
+299261312,school,Escola Olegario Mariano,-30.015079,-51.2012517,FLORESTA,Floresta
+299874647,hospital,Hospital Sanatório Partenon,-30.0621172,-51.1787939,PARTENON,Partenon
+303354659,school,Escola Itamarati,-30.0074636,-51.1297622,SARANDI,Sarandi
+306249222,school,Escola Rincão,-30.1194952,-51.161283,BELEM VELHO,Belém Velho
+313583035,school,Escola Professor Ivo Corseuil,-30.0430166,-51.1767541,PETROPOLIS,Petrópolis
+316054671,school,Creche Murialdo,-30.0731819,-51.1634524,VILA SAO JOSE,Vila São José
+316569678,school,Colégio Vicentino Santa Cecília,-30.0426197,-51.1969756,SANTA CECILIA,Santa Cecília
+316732357,clinic,Estratégia de Saúde da Família Jardim Carvalho,-30.0538435,-51.1502711,JARDIM CARVALHO,Jardim Carvalho
+316735260,school,Escola Evaristo Goncalves Netto,-30.0514812,-51.1497775,JARDIM CARVALHO,Jardim Carvalho
+316737027,clinic,Estratégia de Saúde da Família Milta Rodrigues,-30.0584314,-51.1453782,JARDIM CARVALHO,Jardim Carvalho
+316790810,clinic,Unidade de Saúde Vila Jardim,-30.0459413,-51.1635283,BOM JESUS,Bom Jesus
+316791650,clinic,Unidade Básica de Saúde Morro Santana,-30.0391836,-51.1282894,MORRO SANTANA,Morro Santana
+316793986,clinic,Unidade Básica de Saúde Chácara da Fumaça,-30.0320947,-51.1133055,MARIO QUINTANA,Mário Quintana
+316794549,school,Escola Chico Mendes,-30.0317632,-51.113006,MARIO QUINTANA,Mário Quintana
+316836163,police,,-30.0349116,-51.2315511,CENTRO HISTORICO,Centro Histórico
+316857238,school,Colégio Bom Jesus Sévigné,-30.0340793,-51.2266015,CENTRO HISTORICO,Centro Histórico
+316976828,hospital,Centro de Saúde IAPI,-30.0144756,-51.1778575,PASSO D AREIA,Passo D'Areia
+316976829,school,Escola Alberto Bins,-30.0689361,-51.2152581,SANTA TEREZA,Santa Tereza
+316976830,school,Escola Venezuela,-30.0697206,-51.2100207,MEDIANEIRA,Medianeira
+316976832,hospital,Associação Hospitalar Vila Nova,-30.1193801,-51.2077637,VILA NOVA,Vila Nova
+316976834,clinic,Unidade de Pronto Atendimento Moacyr Scliar,-30.0097235,-51.1458952,SAO SEBASTIAO,São Sebastião
+317019288,school,Escola Gabriel Obino,-30.0834771,-51.1999612,TERESOPOLIS,Teresópolis
+317019540,school,Escola Baependi,-30.083469,-51.2002584,TERESOPOLIS,Teresópolis
+317186767,school,Colégio La Salle Dores,-30.0321354,-51.2337037,CENTRO HISTORICO,Centro Histórico
+317191591,police,1a. Delegacia de Polícia,-30.033254,-51.2355181,CENTRO HISTORICO,Centro Histórico
+317192910,school,,-30.0353354,-51.2335302,CENTRO HISTORICO,Centro Histórico
+317554747,school,Escola Borghesi,-30.1573495,-51.1945216,ABERTA DOS MORROS,Aberta dos Morros
+317554748,school,Escola Cesi Zona Sul,-30.1596933,-51.1877724,HIPICA,Hípica
+317554749,school,Escola Matias de Albuquerque,-30.1545681,-51.1991743,ABERTA DOS MORROS,Aberta dos Morros
+317874785,school,Escola Marcírio Goulart Loureiro,-30.0765467,-51.1735641,CORONEL APARICIO BORGES,Coronel Aparício Borges
+317875056,school,Escola Travassos Alves,-30.0781686,-51.1701838,CORONEL APARICIO BORGES,Coronel Aparício Borges
+317875313,school,Escola América,-30.0788418,-51.1677553,CORONEL APARICIO BORGES,Coronel Aparício Borges
+317875733,school,Escola Judith Macedo de Araújo,-30.0760749,-51.1635234,VILA SAO JOSE,Vila São José
+317876181,school,Escola Martins Costa Júnior,-30.0740112,-51.1691973,VILA SAO JOSE,Vila São José
+317984490,school,Colégio Adventista do Partenon,-30.0665065,-51.1765853,VILA JOAO PESSOA,Vila João Pessoa
+317984493,school,Escola Dom Pedro I,-30.074241,-51.1986121,GLORIA,Glória
+317984497,school,Escola Jerônimo de Ornelas,-30.0751899,-51.1916399,GLORIA,Glória
+317984500,school,Escola Nossa Senhora do Brasil,-30.0640062,-51.1749695,VILA JOAO PESSOA,Vila João Pessoa
+317984504,school,Escola Oscar Tollens,-30.0655129,-51.1675782,VILA SAO JOSE,Vila São José
+317984507,school,Escola São José de Murialdo,-30.0654485,-51.1686067,VILA SAO JOSE,Vila São José
+318153201,school,Colégio Protásio Alves,-30.0473562,-51.2178349,AZENHA,Azenha
+318661243,hospital,,-30.1066597,-51.1717917,BELEM VELHO,Belém Velho
+318710309,police,1º Batalhão de Polícia de Choque,-30.0714585,-51.1854548,CORONEL APARICIO BORGES,Coronel Aparício Borges
+319620171,clinic,Estratégia Saúde da Família Vila Pinto,-30.0504907,-51.1528002,BOM JESUS,Bom Jesus
+319626446,school,Escola Professor Sylvio Torres,-30.0815254,-51.1158881,LOMBA DO PINHEIRO,Lomba do Pinheiro
+319626447,school,Escola Thereza Noronha Carvalho,-30.1154346,-51.1150298,LOMBA DO PINHEIRO,Lomba do Pinheiro
+319632144,school,Escola Coronel Tito Marques Fernandes,-30.0675686,-51.2215699,SANTA TEREZA,Santa Tereza
+321016595,school,Escola Neusa Goulart Brizola,-30.1174545,-51.2285071,CAVALHADA,Cavalhada
+322767817,school,Colégio Padre Rambo,-30.0573101,-51.1973673,SANTO ANTONIO,Santo Antônio
+322767819,school,Escola Apeles Porto Alegre,-30.0511789,-51.2006587,PARTENON,Partenon
+322767820,school,Escola Otávio Rocha,-30.0632615,-51.1932667,PARTENON,Partenon
+322767821,school,Escola Padre Balduíno Rambo,-30.0592378,-51.1953179,PARTENON,Partenon
+322767822,school,Escola Santa Luzia,-30.0631955,-51.2019806,SANTO ANTONIO,Santo Antônio
+322767823,school,Escola Rainha do Brasil,-30.0576885,-51.2007184,SANTO ANTONIO,Santo Antônio
+325811520,school,Escola Brigadeiro Silva Paes,-30.0748044,-51.2134962,TERESOPOLIS,Teresópolis
+325811521,school,Escola Cândido Portinari,-30.04679,-51.2234759,MENINO DEUS,Menino Deus
+325811522,school,Escola Duque de Caxias,-30.0518846,-51.2157899,AZENHA,Azenha
+325811523,school,Escola Infante Dom Henrique,-30.0593971,-51.2210899,MENINO DEUS,Menino Deus
+325811524,school,Escola Maria Imaculada,-30.0676343,-51.2099532,MEDIANEIRA,Medianeira
+325811525,school,Escola Medianeira,-30.0641655,-51.210812,MEDIANEIRA,Medianeira
+325811526,school,Escola William Richard Schisler,-30.052969,-51.2190399,MENINO DEUS,Menino Deus
+325811527,school,Instituto de Educação João XXIII,-30.0770483,-51.2160481,SANTA TEREZA,Santa Tereza
+328244265,school,Colégio Presidente Arthur da Costa e Silva,-29.9997155,-51.1373098,SARANDI,Sarandi
+328244266,school,Colégio Salesiano Dom Bosco,-30.0120557,-51.1796465,HIGIENOPOLIS,Higienópolis
+328244267,school,Escola Aurora Peixoto de Azevedo,-29.9876038,-51.1363927,SARANDI,Sarandi
+328244268,school,Escola Cerepal,-30.0098616,-51.1797739,PASSO D AREIA,Passo D'Areia
+328244269,school,Escola Guanella,-30.0242846,-51.1458039,VILA IPIRANGA,Vila Ipiranga
+328244270,school,Escola João Batista de Lacerda,-30.0230009,-51.1488975,VILA IPIRANGA,Vila Ipiranga
+331246357,school,Colégio Concordia,-30.0065707,-51.2020349,SAO GERALDO,São Geraldo
+331246358,school,Colégio Cândido José de Godoi,-30.0023009,-51.2027055,NAVEGANTES,Navegantes
+331553447,school,Escola Baltazar de Oliveira Garcia,-30.0180955,-51.1102042,JARDIM LEOPOLDINA,Jardim Leopoldina
+331553448,school,Escola David Canabarro,-30.0171008,-51.1169123,JARDIM LEOPOLDINA,Jardim Leopoldina
+331553449,school,Escola Fernando Gomes,-30.0482426,-51.1693167,JARDIM DO SALSO,Jardim do Salso
+331553450,school,Escola Morro da Cruz,-30.0784086,-51.1604533,VILA SAO JOSE,Vila São José
+331553451,school,Escola Toyama,-30.0373379,-51.1433117,JARDIM SABARA,Jardim Sabará
+331553453,school,Escola Wenceslau Fontoura,-30.026569,-51.0993136,MARIO QUINTANA,Mário Quintana
+331557930,school,Colégio Odila Gay da Fonseca,-30.1366004,-51.2252091,IPANEMA,Ipanema
+331557931,school,Escola Jardim Vila Nova,-30.1265695,-51.2089748,VILA NOVA,Vila Nova
+331557932,school,Escola Estadual de Ensino Fundamental Monte Líbano,-30.1303307,-51.226185,IPANEMA,Ipanema
+331557933,school,Escola Vila Monte Cristo,-30.1223025,-51.2175364,VILA NOVA,Vila Nova
+331682633,school,Minha escola,-30.210639,-51.177601,BELEM NOVO,Belém Novo
+331682634,school,Escola Evarista Flores da Cunha,-30.2119382,-51.1834149,BELEM NOVO,Belém Novo
+332171369,school,Colégio Batista,-30.0213042,-51.2088942,FLORESTA,Floresta
+332171370,school,Colégio Nossa Senhora do Bom Conselho,-30.0270837,-51.208389,MOINHOS DE VENTO,Moinhos de Vento
+332171371,school,Escola Professora Branca Diva Pereira de Souza,-30.0117822,-51.2052198,SAO GERALDO,São Geraldo
+333909679,school,Núcleo Estadual de Educação Darcy Ribeiro,-30.0236103,-51.175113,BOA VISTA,Boa Vista
+333909680,school,Colégio Monteiro Lobato,-30.0251414,-51.1737044,BOA VISTA,Boa Vista
+333909682,school,Escola Professora Maria Thereza da Silveira,-30.0283244,-51.1840933,BELA VISTA,Bela Vista
+335031510,school,Centro de Formação Profissional Murialdo,-30.0665833,-51.1683906,VILA SAO JOSE,Vila São José
+335995481,hospital,Hospital Espírita de Porto Alegre,-30.0876398,-51.2064918,TERESOPOLIS,Teresópolis
+336572928,school,Escola Professor Edgar Luiz Schneider,-30.0629166,-51.1598162,PARTENON,Partenon
+338334659,clinic,Centro de Saúde Santa Marta,-30.0284921,-51.2324602,CENTRO HISTORICO,Centro Histórico
+347702342,hospital,Hospital Ernesto Dornelles,-30.0479368,-51.2124501,AZENHA,Azenha
+347702350,police,Palácio da Polícia,-30.0470209,-51.210924,SANTANA,Santana
+353291727,school,Colégio Elpídio Ferreira Paes,-30.0874358,-51.2376603,CRISTAL,Cristal
+353291731,school,Escola Piaui-Caic,-30.0883183,-51.2236684,NONOAI,Nonoai
+353491145,hospital,Hospital Moinhos de Vento,-30.0256236,-51.2081805,MOINHOS DE VENTO,Moinhos de Vento
+355834402,school,Colégio Coronel Afonso Emílio Massot,-30.0466055,-51.2166979,AZENHA,Azenha
+355834403,school,Escola Professora Leopolda Barnewitz,-30.0410139,-51.2258774,CIDADE BAIXA,Cidade Baixa
+356396318,school,Escola Desidério Torquato Finamor,-30.0686728,-51.1432775,AGRONOMIA,Agronomia
+367324147,school,Colégio Sinodal do Salvador,-30.0135989,-51.1471161,VILA IPIRANGA,Vila Ipiranga
+367840585,school,Escola Especial Renascença,-30.0471486,-51.215067,AZENHA,Azenha
+368654247,school,Escola Ildefonso Gomes,-30.0453915,-51.2124706,SANTANA,Santana
+371811400,school,Colégio Romano Senhor Bom Jesus,-30.0434378,-51.1419042,JARDIM SABARA,Jardim Sabará
+371944094,clinic,Centro de Saúde Lomba do Pinheiro,-30.1108161,-51.1100524,LOMBA DO PINHEIRO,Lomba do Pinheiro
+371944098,school,Escola Rafaela Remião,-30.0978241,-51.1266014,LOMBA DO PINHEIRO,Lomba do Pinheiro
+372535694,hospital,Hospital Restinga e Extremo-Sul,-30.1424803,-51.1288775,RESTINGA,Restinga
+372535700,school,Escola Tristão Sucupira Vianna,-30.1497662,-51.1457998,RESTINGA,Restinga
+379937738,school,Escola Custódio de Mello,-30.1643402,-51.2279628,SERRARIA,Serraria
+380130690,school,Escola Henrique Farjat,-30.1583398,-51.1609662,RESTINGA,Restinga
+380231588,school,Escola Professores Langendonck,-30.1561476,-51.221949,GUARUJA,Guarujá
+380233921,school,Escola Querência,-30.1275326,-51.2372314,JARDIM ISABEL,Jardim Isabel
+380235269,school,Colegio João Paulo I,-30.1250067,-51.2391122,JARDIM ISABEL,Jardim Isabel
+386531676,pharmacy,Droga Raia,-30.0240391,-51.1900677,AUXILIADORA,Auxiliadora
+399736839,school,Colégio La Salle São João,-30.0088781,-51.1862993,SAO JOAO,São João
+402475845,school,Escola Professora Lygia Morrone Averbuck,-30.0544872,-51.1664514,JARDIM DO SALSO,Jardim do Salso
+402959446,school,Pró-Saber,-30.015148,-51.1929057,SAO JOAO,São João
+404111241,hospital,Hospital Fêmina,-30.0292021,-51.2068424,RIO BRANCO,Rio Branco
+411183189,police,Departamento de Investigações Criminais,-30.0523663,-51.1697575,JARDIM DO SALSO,Jardim do Salso
+414002243,pharmacy,Panvel,-30.0295263,-51.1821528,BELA VISTA,Bela Vista
+414428756,police,Brigada Militar,-30.0278213,-51.2232401,CENTRO HISTORICO,Centro Histórico
+414432832,pharmacy,Van der Laan,-30.0314004,-51.2264129,CENTRO HISTORICO,Centro Histórico
+414432876,clinic,AmorSaúde,-30.028339,-51.2227804,CENTRO HISTORICO,Centro Histórico
+414433698,pharmacy,Preço Popular,-30.0275655,-51.2247378,CENTRO HISTORICO,Centro Histórico
+414743189,hospital,Centro Médico-Odontológico da Brigada Militar,-30.0312078,-51.2367708,CENTRO HISTORICO,Centro Histórico
+415529450,school,Escola José Garibaldi,-29.9802367,-51.1878885,HUMAITA,Humaitá
+415531472,school,Escola Técnica Santo Inácio,-30.1227648,-51.1762697,BELEM VELHO,Belém Velho
+415535180,school,,-29.9865898,-51.1578114,ANCHIETA,Anchieta
+419339793,clinic,Centro Clínico Gaúcho,-30.0280662,-51.218551,INDEPENDENCIA,Independência
+419342904,clinic,Clínica de Ortopedia e Traumatologia Moinhos de Vento,-30.0293517,-51.2097608,INDEPENDENCIA,Independência
+419343267,school,Escola de Educação Infantil Lar do Bebê Pupileira,-30.0266419,-51.2045097,MOINHOS DE VENTO,Moinhos de Vento
+419345702,clinic,Centro Clínico Sarmento Leite,-30.0262147,-51.20172,MOINHOS DE VENTO,Moinhos de Vento
+419347194,hospital,Pronto Socorro Cruz Azul,-30.0290176,-51.2048693,RIO BRANCO,Rio Branco
+419349375,clinic,ECO-SALVA,-30.0235715,-51.2105282,FLORESTA,Floresta
+419350881,fire_station,Corpo de Bombeiros - Estação Floresta,-30.0180236,-51.2050632,FLORESTA,Floresta
+419554863,police,22ª Delegacia de Polícia Civil,-29.9943418,-51.1129495,SARANDI,Sarandi
+420055425,school,Colégio Marechal Floriano Peixoto,-30.0248901,-51.2135473,FLORESTA,Floresta
+420055426,school,Colégio Marista São Pedro,-30.017186,-51.2060152,FLORESTA,Floresta
+420055427,school,Escola Anne Frank,-30.0317648,-51.2132797,BOM FIM,Bom Fim
+420055428,school,Escola Camila Furtado Alves,-30.0148152,-51.2115064,FLORESTA,Floresta
+420055429,school,Escola Othelo Rosa,-30.0295035,-51.2102979,INDEPENDENCIA,Independência
+420865549,school,Núcleo Estadual de Educação de Jovens e Adultos e Cultura Popular Menino Deus,-30.0466613,-51.2217384,MENINO DEUS,Menino Deus
+420866355,clinic,Unimed,-30.023965,-51.2008983,MOINHOS DE VENTO,Moinhos de Vento
+420866363,clinic,Retina Center,-30.0221688,-51.1996605,MOINHOS DE VENTO,Moinhos de Vento
+420868536,clinic,Unimed,-30.0239029,-51.2006954,MOINHOS DE VENTO,Moinhos de Vento
+421390006,police,10ª Delegacia de Polícia Civil,-30.0378164,-51.2095513,SANTANA,Santana
+421390818,clinic,"Clínica Beira Rio, Ltda.",-30.0410015,-51.2152964,SANTANA,Santana
+421391007,clinic,FUGAST,-30.0402174,-51.2043582,SANTA CECILIA,Santa Cecília
+421391020,school,Núcleo Estadual de Educação de Jovens e Adultos e Cultura Popular Darcy Vargas,-30.040651,-51.2164163,FARROUPILHA,Farroupilha
+421391406,pharmacy,Panvel,-30.0392889,-51.2013011,SANTA CECILIA,Santa Cecília
+421393341,school,UFRGS Anexo Farmácia,-30.0445974,-51.2063144,SANTANA,Santana
+421398992,pharmacy,Panvel,-30.0562622,-51.215323,AZENHA,Azenha
+421399519,pharmacy,Preço Popular,-30.0495269,-51.2220945,MENINO DEUS,Menino Deus
+421400459,pharmacy,Panvel,-30.0487647,-51.2213307,MENINO DEUS,Menino Deus
+421417054,police,1ª Delegacia de Polícia Civil - Central de Volantes,-30.0007158,-51.2018758,NAVEGANTES,Navegantes
+421419090,school,Escola Benjamin Constant,-30.0063406,-51.1906915,SAO JOAO,São João
+421421621,police,10ª Delegacia Penitenciária Regional,-30.0074429,-51.2039032,SAO GERALDO,São Geraldo
+423017546,pharmacy,Farmácia Popular Hípica,-30.1558084,-51.1816482,HIPICA,Hípica
+424208767,pharmacy,Panvel,-30.0217264,-51.1908343,AUXILIADORA,Auxiliadora
+424297363,pharmacy,Onofre,-30.0356714,-51.1773495,PETROPOLIS,Petrópolis
+424297892,pharmacy,Panvel,-30.043077,-51.1829317,PETROPOLIS,Petrópolis
+424316987,school,Escola Sitio do Pica Pau Amarelo,-30.0564014,-51.1944814,PARTENON,Partenon
+424382327,school,Escola Pequena Casa da Crianca,-30.0654047,-51.1942596,PARTENON,Partenon
+424423809,school,Escola Cristã da Brasa,-30.0563056,-51.2138076,AZENHA,Azenha
+424633769,school,Escola Lar Feliz,-30.0037512,-51.1862665,SAO JOAO,São João
+425011038,school,Escola Constructor,-30.0160744,-51.1539905,CRISTO REDENTOR,Cristo Redentor
+425215043,school,,-30.0511082,-51.1631211,BOM JESUS,Bom Jesus
+425215152,police,,-30.0625519,-51.1604408,PARTENON,Partenon
+425215193,school,,-30.0514019,-51.1626806,BOM JESUS,Bom Jesus
+425215214,school,,-30.0514406,-51.1627911,BOM JESUS,Bom Jesus
+425216181,clinic,Clínica Radiológica Porto AlegreCLINICA RADIOLÓGICA PORTO ALEGRE,-30.0618657,-51.1493243,JARDIM CARVALHO,Jardim Carvalho
+425216986,school,,-30.0510982,-51.1627561,BOM JESUS,Bom Jesus
+425217265,school,,-30.0511945,-51.1627551,BOM JESUS,Bom Jesus
+425363605,school,Escola de Educação Infantil ACOMUR,-30.0703716,-51.166924,VILA SAO JOSE,Vila São José
+425400958,clinic,,-30.0760048,-51.161453,VILA SAO JOSE,Vila São José
+425565073,hospital,Hospital Divina Providência,-30.0849361,-51.1877293,GLORIA,Glória
+425821894,school,Escola Doutor Victor de Britto,-30.0900071,-51.214661,NONOAI,Nonoai
+425845238,clinic,Posto de Saúde Familiar Orfanotrófio II,-30.0867198,-51.2253246,NONOAI,Nonoai
+425863161,school,Escola de Educação Infantil Nossa Senhora de Fátima - Dom Orione,-30.0828535,-51.2285217,SANTA TEREZA,Santa Tereza
+426027844,school,Colégio Leonardo da Vinci Beta,-30.0948169,-51.2453139,CRISTAL,Cristal
+426039494,school,Escola Roque Gonzales,-30.0979402,-51.2322164,CAVALHADA,Cavalhada
+426047086,pharmacy,Droga Raia,-30.1085769,-51.2543488,TRISTEZA,Tristeza
+426138090,police,1 BPM 2a Companhia,-30.1123329,-51.2554815,TRISTEZA,Tristeza
+426191732,school,Escola Clotilde Cachapuz de Medeiros,-30.1464161,-51.2208633,ESPIRITO SANTO,Espírito Santo
+426242053,school,Escola Nehyta Martins Ramos,-30.2091048,-51.1656246,BELEM NOVO,Belém Novo
+426329425,school,Escola Oscar Schimit,-29.986503,-51.2471189,ARQUIPELAGO,Arquipélago
+426331685,clinic,Unidade Básica de Saúde Ilha dos Marinheiros,-29.9933485,-51.2249069,ARQUIPELAGO,Arquipélago
+426358476,school,Escola Lions Club Porto Alegre Farrapos,-29.9934148,-51.192736,HUMAITA,Humaitá
+426387181,school,Escola Municipal de Educação Infantil Humaitá,-29.980143,-51.1858405,HUMAITA,Humaitá
+426416244,police,11º Batalhão de Polícia Militar,-29.9792232,-51.1731593,ANCHIETA,Anchieta
+426438118,school,Escola Padre Theodoro Amstad,-30.0159057,-51.1777632,PASSO D AREIA,Passo D'Areia
+426492828,clinic,UBS Nova Brasília,-29.9824791,-51.1346593,SARANDI,Sarandi
+426621951,school,Escola Maria José Mabilde,-30.0278626,-51.252684,ARQUIPELAGO,Arquipélago
+426621952,school,Escola Almirante Barroso,-30.013999,-51.2595628,ARQUIPELAGO,Arquipélago
+426623397,clinic,Unidade Básica de Saúde Ilha Pintada,-30.0277412,-51.2531695,ARQUIPELAGO,Arquipélago
+426647891,school,Escola Infantil Canarinho,-30.0017073,-51.1244246,SARANDI,Sarandi
+427056421,school,Colégio Luterano São Paulo,-29.9984636,-51.0929285,SANTA ROSA DE LIMA,Santa Rosa de Lima
+427139104,clinic,Unidade de Saúde Barão de Bagé,-30.0353026,-51.1574395,VILA JARDIM,Vila Jardim
+427381575,clinic,Unidade de Saúde Pitoresca SUS,-30.0712626,-51.1550764,PARTENON,Partenon
+427384983,school,Escola Anita Garibaldi,-30.1040741,-51.1708822,BELEM VELHO,Belém Velho
+427385981,school,Escola Professora Marina Martins de Souza,-30.0703318,-51.1559815,PARTENON,Partenon
+427504382,clinic,Clínica São José,-30.087459,-51.1882386,GLORIA,Glória
+427660247,school,Escola Alberto Torres,-30.1156417,-51.2100404,VILA NOVA,Vila Nova
+427660469,school,Escola Visconde do Rio Grande,-30.1023965,-51.2289053,CAVALHADA,Cavalhada
+427713875,school,Escola Dona Luiza Freitas Vale Aranha,-30.1206048,-51.176744,BELEM VELHO,Belém Velho
+427995688,school,Escola Ensino Fundamental Ananda Marga,-30.1502539,-51.1452019,RESTINGA,Restinga
+428101143,school,Escola General Neto,-30.2046728,-51.1162307,BOA VISTA DO SUL,Boa Vista do Sul
+428349657,clinic,Unidade Básica de Saúde Rubem Berta,-30.0245483,-51.1029087,RUBEM BERTA,Rubem Berta
+428490694,school,Colégio General Álvaro Alves da Silva Braga,-30.0629765,-51.2170481,MEDIANEIRA,Medianeira
+428490695,school,Colégio Inácio Montanha,-30.0483535,-51.2112929,AZENHA,Azenha
+428490696,school,Colégio Pastor Dohms Zona Sul,-30.0811949,-51.2068967,TERESOPOLIS,Teresópolis
+428490697,school,Escola de Formação e Especialização de Soldados de Porto Alegre,-30.0695968,-51.189058,PARTENON,Partenon
+428490700,school,Escola Ayrton Senna da Silva,-30.0619089,-51.2055173,SANTO ANTONIO,Santo Antônio
+428490701,school,Escola Coronel Aparício Borges,-30.0681305,-51.1881972,PARTENON,Partenon
+428490702,school,Escola Espírito Santo,-30.0780886,-51.1919712,GLORIA,Glória
+428490703,school,Escola Felipe de Oliveira,-30.0426998,-51.2021605,SANTA CECILIA,Santa Cecília
+428490704,school,Escola Gabriela Mistral,-30.0576064,-51.2064344,SANTO ANTONIO,Santo Antônio
+428490705,school,Escola Luciana de Abreu,-30.0409618,-51.2119701,SANTANA,Santana
+428647547,school,Escola Saint Hilaire,-30.1238159,-51.0977503,LOMBA DO PINHEIRO,Lomba do Pinheiro
+428970819,school,Escola Alvarenga Peixoto,-29.9935303,-51.2244745,ARQUIPELAGO,Arquipélago
+428970820,school,Escola Marista de Educação Infantil Nossa Senhora Aparecida das Águas,-29.9679965,-51.2305318,ARQUIPELAGO,Arquipélago
+428970821,school,Escola Ilha da Pintada,-30.0168192,-51.2602961,ARQUIPELAGO,Arquipélago
+429538841,school,Escola Doutor Emilio Kemp,-30.052261,-51.1949628,PARTENON,Partenon
+429538842,school,Escola São Francisco de Assis,-30.0443574,-51.2020971,SANTANA,Santana
+430081275,school,Escola Ana Íris do Amaral,-30.0308764,-51.1251492,MORRO SANTANA,Morro Santana
+430081276,school,Escola Açorianos,-30.034893,-51.1574934,VILA JARDIM,Vila Jardim
+430081277,school,Escola Porto Alegre,-30.0365107,-51.239452,CENTRO HISTORICO,Centro Histórico
+430081278,school,Escola Primeiro de Maio,-30.0009892,-51.2010413,NAVEGANTES,Navegantes
+430081279,school,Escola Souza Lobo,-30.010673,-51.1998124,SAO GERALDO,São Geraldo
+430081280,school,Instituto São Francisco Santa Familia,-30.0095446,-51.1991076,SAO GERALDO,São Geraldo
+431708678,school,Escola Grande Oriente do RGS,-30.0240085,-51.1037605,RUBEM BERTA,Rubem Berta
+431708681,school,Escola Julio Brunelli,-30.0191412,-51.1050023,RUBEM BERTA,Rubem Berta
+431708682,school,Escola Porto Alegre,-30.0376636,-51.125578,MORRO SANTANA,Morro Santana
+431708684,school,Escola Professor Alcides Cunha,-30.0400182,-51.123058,MORRO SANTANA,Morro Santana
+431708686,school,Instituição de Educação Infantil Madre Teresa,-30.024793,-51.1030811,RUBEM BERTA,Rubem Berta
+442584818,hospital,Hospital Beneficência Portuguesa,-30.0289013,-51.2188248,INDEPENDENCIA,Independência
+443234722,school,Escola Mario Quintana,-30.1540678,-51.1323788,RESTINGA,Restinga
+443238256,school,,-30.1558455,-51.1380396,RESTINGA,Restinga
+445927007,school,Escola Madre Maria Selima,-30.0719508,-51.1780816,VILA JOAO PESSOA,Vila João Pessoa
+445934755,school,Escola Jerônimo de Albuquerque,-30.0676984,-51.1739946,VILA JOAO PESSOA,Vila João Pessoa
+445934756,school,Escola Luiz de Azambuja Soares,-30.0662086,-51.1634374,VILA SAO JOSE,Vila São José
+445934757,school,Escola Doutor Walter Silber,-30.0708479,-51.1697559,VILA SAO JOSE,Vila São José
+445934893,school,Escola Araújo Viana,-30.0669494,-51.161782,VILA SAO JOSE,Vila São José
+445934894,school,Escola de Educação Infantil Pequeno Polegar,-30.0679857,-51.1657905,VILA SAO JOSE,Vila São José
+445934895,school,Escola de Educação Infantil Turma do Barulho,-30.0643225,-51.1717744,VILA JOAO PESSOA,Vila João Pessoa
+445934897,clinic,Unidade de Saúde da Família Ernesto Araújo,-30.075821,-51.1633358,VILA SAO JOSE,Vila São José
+448723765,school,,-30.0449794,-51.1288146,MORRO SANTANA,Morro Santana
+461436895,school,Escola Tio Barnabé,-30.0463822,-51.2155342,AZENHA,Azenha
+461436899,police,Polícia Federal - Superintendência Regional,-30.0484567,-51.2152015,AZENHA,Azenha
+461600491,clinic,Porto Alegre Clínicas,-30.0245999,-51.2140622,FLORESTA,Floresta
+461600492,clinic,Policlínica Central,-30.0262602,-51.2145949,FLORESTA,Floresta
+462403715,school,Escola Estadual para Surdos Professora Lilia Mazeron,-30.0063541,-51.1780302,SANTA MARIA GORETTI,Santa Maria Goretti
+462403716,school,Escola Professor Carlos Rodrigues da Silva,-30.0053729,-51.1737108,SANTA MARIA GORETTI,Santa Maria Goretti
+462555351,police,Academia de Polícia,-29.9999402,-51.2022132,NAVEGANTES,Navegantes
+462555353,clinic,,-30.0000573,-51.2002961,NAVEGANTES,Navegantes
+462555361,school,,-30.0157447,-51.2120367,FLORESTA,Floresta
+466454403,school,Escola Estadual de Ensino Fundamental Rafael Pinto Bandeira,-30.0958519,-51.2430645,CRISTAL,Cristal
+466454408,school,Escola Pedro Sirangelo,-30.1067306,-51.2243229,CAVALHADA,Cavalhada
+466454414,school,Colégio Estadual Paraná,-30.0779693,-51.2423529,CRISTAL,Cristal
+466454423,school,Escola Araguaia,-30.1578494,-51.1833289,HIPICA,Hípica
+466454427,school,Escola Waldorf Querência,-30.1270381,-51.2376654,JARDIM ISABEL,Jardim Isabel
+467585499,school,Escola Doutor Ferreira de Abreu,-29.9987116,-51.1273982,SARANDI,Sarandi
+467585500,school,Colégio Kennedy,-29.995325,-51.1266536,SARANDI,Sarandi
+467585501,school,Escola Carlos Barbosa Goncalves,-29.9936511,-51.1981975,HUMAITA,Humaitá
+467593927,school,Escola Desenvolver,-30.1080559,-51.2371948,CAMAQUA,Camaquã
+467593928,school,Escola Aramy Silva,-30.0976546,-51.2417408,CRISTAL,Cristal
+467593929,school,Escola Fernando Ferrari,-30.0916811,-51.2376736,CRISTAL,Cristal
+467654822,school,Escola José Loureiro da Silva,-30.0827325,-51.2325698,CRISTAL,Cristal
+467743027,school,Escola Engenheiro Rodolfo Ahrons,-30.0155242,-51.1001511,RUBEM BERTA,Rubem Berta
+467743029,school,Escola Professor Oscar Pereira,-30.0907155,-51.1806453,CASCATA,Cascata
+467743030,school,Escola Doutor Gustavo Armbrust,-30.0104181,-51.1406411,JARDIM ITU,Jardim Itu
+467743031,school,Escola Humaitá,-29.9911274,-51.1215529,SARANDI,Sarandi
+467743035,school,Escola Osorio Duque Estrada,-30.101616,-51.245612,TRISTEZA,Tristeza
+467743036,school,Escola Santa Rosa,-29.996996,-51.1007393,SANTA ROSA DE LIMA,Santa Rosa de Lima
+467743037,school,Escola Ministro Poty Medeiros,-30.0079255,-51.0956075,RUBEM BERTA,Rubem Berta
+467743038,school,Escola Vinte de Setembro,-29.9970883,-51.0910546,SANTA ROSA DE LIMA,Santa Rosa de Lima
+467743039,school,Escola Dutra Jardim,-30.0013327,-51.1013529,SANTA ROSA DE LIMA,Santa Rosa de Lima
+467743040,school,Escola Bento Gonçalves,-30.0015791,-51.1016992,SANTA ROSA DE LIMA,Santa Rosa de Lima
+467743041,school,Colégio Estadual Professor Elmano Lauffer Leal,-30.0121049,-51.1316997,JARDIM ITU,Jardim Itu
+467743042,school,Escola Presidente Vargas,-30.0164778,-51.1271455,PASSO DAS PEDRAS,Passo das Pedras
+467743043,school,Escola Professor Gilberto Jorge Goncalves da Silva,-30.1373622,-51.2108481,IPANEMA,Ipanema
+467743044,school,Escola João Antonio Satte,-29.9991766,-51.09302,SANTA ROSA DE LIMA,Santa Rosa de Lima
+467743045,school,Escola Campos do Cristal,-30.1195073,-51.2012783,VILA NOVA,Vila Nova
+467743046,school,Escola Jean Piaget,-30.0049546,-51.0948131,RUBEM BERTA,Rubem Berta
+467743050,school,Escola de Ensino Fundamental Prof Ana Maria Monteggia,-30.1208062,-51.213042,VILA NOVA,Vila Nova
+467743062,school,Escola Especial João Alfredo de Azevedo,-30.1187069,-51.2067857,VILA NOVA,Vila Nova
+467743074,school,Escola Estadual Especial Cristo Redentor,-30.0122255,-51.1524457,CRISTO REDENTOR,Cristo Redentor
+467748946,school,Escola Margarida Coelho de Souza,-30.2119533,-51.1320034,BOA VISTA DO SUL,Boa Vista do Sul
+467748947,school,Escola Almirante Bacelar,-30.0469216,-51.0848831,MARIO QUINTANA,Mário Quintana
+471991755,school,Colégio Santa Teresa de Jesus,-30.0985955,-51.2302174,CAVALHADA,Cavalhada
+473170634,school,Escola Mãe Admirável,-30.0420482,-51.2267023,CIDADE BAIXA,Cidade Baixa
+477278408,police,9ª Superintendência de Polícia Rodoviária Federal,-29.9942033,-51.2172563,ARQUIPELAGO,Arquipélago
+477278410,school,Escola Municipal de Educação Infantil ABRASCE Ilha do Pavão,-29.9953216,-51.2174213,ARQUIPELAGO,Arquipélago
+480220401,pharmacy,Panvel,-30.028373,-51.1641065,CHACARA DAS PEDRAS,Chácara das Pedras
+484571085,pharmacy,Panvel,-30.1053463,-51.2540119,TRISTEZA,Tristeza
+484571086,pharmacy,Panvel,-30.0278541,-51.1740516,TRES FIGUEIRAS,Três Figueiras
+484571087,pharmacy,Panvel,-30.0430971,-51.1828662,PETROPOLIS,Petrópolis
+484571088,pharmacy,Panvel,-30.0536726,-51.1873149,JARDIM BOTANICO,Jardim Botânico
+484571089,pharmacy,Panvel,-30.0339684,-51.1903722,BELA VISTA,Bela Vista
+484571094,clinic,Unidade Básica de Saúde Tristeza,-30.1111394,-51.254595,TRISTEZA,Tristeza
+484950312,pharmacy,Panvel,-30.018059,-51.1974027,AUXILIADORA,Auxiliadora
+484950315,pharmacy,Panvel,-30.0201412,-51.1984952,MOINHOS DE VENTO,Moinhos de Vento
+485578679,clinic,Radicom,-30.0508821,-51.2179488,AZENHA,Azenha
+485713863,clinic,CAF Fisioterapia,-30.032264,-51.2072254,RIO BRANCO,Rio Branco
+491834412,school,Colégio Anchieta,-30.029967,-51.1757815,TRES FIGUEIRAS,Três Figueiras
+496328983,school,Fleming Medicina,-30.031587,-51.2145192,BOM FIM,Bom Fim
+496501762,clinic,Unidade Básica de Saúde Cidade de Deus,-30.1160713,-51.2278884,CAVALHADA,Cavalhada
+497895023,clinic,Unidade Básica de Saúde Camaquã,-30.1081745,-51.2347926,CAMAQUA,Camaquã
+500493063,school,Escola Violeta Magalhães,-30.1109068,-51.2320559,CAVALHADA,Cavalhada
+503401960,clinic,Unidade Básica de Saúde Assis Brasil,-29.9936239,-51.12839,SARANDI,Sarandi
+503401961,clinic,Unidade Básica de Saúde Sarandi,-29.9949281,-51.1341364,SARANDI,Sarandi
+548204289,pharmacy,Panvel,-30.0223256,-51.1939512,AUXILIADORA,Auxiliadora
+548564381,school,Escola Danilo Antonio Zaffari,-29.9860222,-51.1954086,FARRAPOS,Farrapos
+548564383,school,Colégio Carlos Fagundes de Mello,-29.980115,-51.1930476,FARRAPOS,Farrapos
+548564384,school,Escola Vereador Antonio Giudice,-29.9808376,-51.1860618,HUMAITA,Humaitá
+548564386,school,Escola Oswaldo Vergara,-29.9797533,-51.1957536,FARRAPOS,Farrapos
+548595530,school,Escola Menino Jesus,-30.0174052,-51.2143899,FLORESTA,Floresta
+548599730,school,Escola Aurelio Reis,-30.0033927,-51.1558749,JARDIM FLORESTA,Jardim Floresta
+548599733,school,Escola Maria Auxiliadora,-30.0113137,-51.17919,HIGIENOPOLIS,Higienópolis
+548599740,school,Escola Fundamental ACM Zona Norte,-30.0073818,-51.1760741,SANTA MARIA GORETTI,Santa Maria Goretti
+548599741,school,Colégio Romano São Mateus,-30.0044402,-51.1653203,JARDIM SAO PEDRO,Jardim São Pedro
+563648308,pharmacy,Droga Raia,-30.02867,-51.1997966,RIO BRANCO,Rio Branco
+574869833,pharmacy,Droga Raia,-30.0173271,-51.1829671,HIGIENOPOLIS,Higienópolis
+576486342,school,Escola Vila Jardim Renascenca,-30.0980827,-51.1894487,CASCATA,Cascata
+723288420,pharmacy,Farmácia São João,-30.0552546,-51.147076,JARDIM CARVALHO,Jardim Carvalho
+957700508,pharmacy,Panvel,-30.1555912,-51.1771828,HIPICA,Hípica
+1046514913,police,Cidade da Polícia Civil,-30.0798648,-51.1298807,LOMBA DO PINHEIRO,Lomba do Pinheiro
+1050288786,school,EEEF Brasília,-30.0005958,-51.1909016,SAO JOAO,São João
+1066302991,hospital,Suksteris - Núcleo de Medicina,-30.0342402,-51.2106571,BOM FIM,Bom Fim
+1070603549,hospital,Hospital Petrópolis,-30.0409439,-51.1941115,PETROPOLIS,Petrópolis
+1123174691,clinic,Unidade de Saúde Mato Sampaio,-30.0515541,-51.1646295,BOM JESUS,Bom Jesus
+1293513419,hospital,,-30.067908,-51.1770285,VILA JOAO PESSOA,Vila João Pessoa
+1337286381,pharmacy,São João,-30.0312745,-51.2040388,RIO BRANCO,Rio Branco
+1354523569,pharmacy,Raia,-30.0334797,-51.2325301,CENTRO HISTORICO,Centro Histórico
+1365629576,hospital,Hospital Nora Teixeira,-30.0314695,-51.2223542,CENTRO HISTORICO,Centro Histórico
+1365644991,pharmacy,Panvel,-30.0244753,-51.190699,MONT SERRAT,Mont'Serrat
+1426404167,pharmacy,Panvel,-30.0200214,-51.1782567,BOA VISTA,Boa Vista
+1444275236,police,Posto da 3ª Cia da Brigada Militar do Rio Grande do Sul,-30.0486289,-51.1831156,JARDIM BOTANICO,Jardim Botânico
+1489786345,police,,-30.0287189,-51.2275037,CENTRO HISTORICO,Centro Histórico
+1553639718,pharmacy,Farmácias São João,-29.9817783,-51.1144288,SARANDI,Sarandi
+1566563620,pharmacy,Agafarma,-30.0311178,-51.1069027,MARIO QUINTANA,Mário Quintana
+1566571843,pharmacy,São João,-30.0181356,-51.1198379,PASSO DAS PEDRAS,Passo das Pedras
+3410436,hospital,Hospital Santa Clara,-30.030927,-51.2227966,CENTRO HISTORICO,Centro Histórico
+6232100,hospital,Hospital Presidente Vargas,-30.0295455,-51.2147297,INDEPENDENCIA,Independência
+6320104,school,Escola de Educação Infantil Mundo da Imaginação,-30.0632621,-51.1711326,VILA JOAO PESSOA,Vila João Pessoa
+6344229,school,Escola Cristóvão Colombo,-29.9830762,-51.1315443,SARANDI,Sarandi
+6346576,clinic,Posto de Saúde,-29.9886782,-51.1168542,SARANDI,Sarandi
+6354469,clinic,Unidade de Saúde SESC,-30.0359364,-51.1485887,JARDIM SABARA,Jardim Sabará
+8397517,school,Colégio Leonardo da Vinci - Unidade Beta,-30.0948415,-51.2457321,CRISTAL,Cristal
+8675267,pharmacy,Panvel,-30.1410529,-51.2197857,IPANEMA,Ipanema
+8675270,pharmacy,Farmácias São João,-30.1407629,-51.2200364,IPANEMA,Ipanema

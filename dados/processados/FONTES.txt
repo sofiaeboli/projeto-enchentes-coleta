@@ -1,0 +1,9 @@
+INCT SiMAI: simulação de enchentes (JSON fornecido pelo instituto)
+
+Fonte: OpenStreetMap via Overpass API (https://overpass-api.de/api/interpreter)
+Data da coleta: 2026-11-09
+Licença ODbL: © contribuidores do OpenStreetMap
+
+Fonte: Prefeitura de Porto Alegre (UMDU/SMUrb), camada bairros_2016
+https://gis-smamus.portoalegre.rs.gov.br/server/rest/services/01_PUBLICACOES/bairros_2016/MapServer/0/query
+Data da coleta: 2026-11-09
